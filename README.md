@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hello+World!+I'm+Emamul+Islam+Nadid;Full+Stack+Developer+%7C+CSE+Student;Turning+Coffee+into+Code+%E2%98%95;Welcome+to+my+Digital+Workspace" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+!+I'm+Emamul+Islam+Nadid;Full+Stack+Developer+%7C+CSE+Student;Turning+Coffee+into+Code+%E2%98%95;Welcome+to+my+Digital+Workspace" alt="Typing SVG" />
 
 <br>
 
@@ -91,15 +91,6 @@
 
 <h3 align="center" style="color: #c9d1d9;">🎖️ GitHub Achievements</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=einadid&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-
-<br><br>
-
-<h3 align="center" style="color: #c9d1d9;">🐍 Contribution Snake</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/einadid/einadid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/einadid/einadid/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/einadid/einadid/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 
 <br><br>
 
