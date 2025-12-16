@@ -1,10 +1,21 @@
 <div align="center">
 
+<!-- HEADER BANNER -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=150&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=42&fontColor=e6edf3&fontAlignY=40"
+  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=170&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=44&fontColor=e6edf3&fontAlignY=38"
   width="100%"
 />
 
+<!-- SUBTITLE INSIDE BANNER EFFECT -->
+<p align="center"
+   style="
+     margin-top:-48px;
+     color:#c9d1d9;
+     font-size:14.5px;
+     letter-spacing:0.8px;
+     font-weight:500;
+     text-transform:uppercase;
+   ">
   Computer Science Student • Web Developer • Graphics Designer • Problem Solver
 </p>
 
