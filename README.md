@@ -18,6 +18,7 @@ location: Dhaka, Bangladesh 🇧🇩
 role: Full Stack Developer
 education: CSE Student
 status: Open to Opportunities
+```
 <br/>
 ![alt text](https://img.shields.io/badge/GitHub-2d333b?style=flat-square&logo=github&logoColor=white)
 
