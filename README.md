@@ -1,15 +1,22 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=130&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=42&fontColor=e6edf3&fontAlignY=46"
+  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=150&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=42&fontColor=e6edf3&fontAlignY=40"
   width="100%"
 />
 
-<p align="center" style="margin-top:-18px; color:#8b949e; font-size:14px; letter-spacing:0.5px;">
+<p align="center"
+   style="
+     margin-top:-35px;
+     color:#c9d1d9;
+     font-size:14px;
+     letter-spacing:0.6px;
+   ">
   Computer Science Student • Web Developer • Graphics Designer • Problem Solver
 </p>
 
 </div>
+
 
 
 <div align="center">
