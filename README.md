@@ -1,5 +1,10 @@
 <!-- HEADER START -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
+<div align="center">
+  
+  <!-- CLEAN HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=120&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=40&fontColor=f0f6fc&fontAlignY=50" width="100%" />
+
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
