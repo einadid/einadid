@@ -30,7 +30,6 @@
     ">
       Computer Science & Engineering Student
     </div>
-
     <div style="
       padding:6px 16px;
       border:1px solid #30363d;
