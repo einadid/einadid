@@ -1,7 +1,13 @@
 <!-- HEADER START -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2d333b,100:0d1117&height=200&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=50&fontColor=f0f6fc&animation=fadeIn&fontAlignY=38&stroke=00f2ff&strokeWidth=2" width="100%" />
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=140&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=42&fontColor=f0f6fc&fontAlignY=45&desc=Computer%20Science%20%7C%20Software%20Developer&descAlignY=70&descSize=16"
+  width="100%"
+/>
+
 </div>
+>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
