@@ -5,10 +5,10 @@
   width="100%"
 />
 
-</div>
+
 
 <p align="center" style="color:#8b949e;">
-  Computer Science Student • Software Developer • Problem Solver
+  Computer Science Student • Web Developer • Problem Solver
 </p>
 
 
