@@ -35,6 +35,7 @@ class EmamulIslamNadid:
 
 me = EmamulIslamNadid()
 me.say_hi()
+```
 <!-- CONNECT WITH ME -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
 
