@@ -2,11 +2,16 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:2d333b,100:f5f5f5&height=160&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20UI%20Focused&descAlignY=70&descSize=16"
+  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=120&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=40&fontColor=e6edf3&fontAlignY=50"
   width="100%"
 />
 
 </div>
+
+<p align="center" style="color:#8b949e;">
+  Computer Science Student • Software Developer • Problem Solver
+</p>
+
 
 
 <div align="center">
