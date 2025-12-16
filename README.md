@@ -1,56 +1,78 @@
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                         HEADER SECTION                        -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- HEADER BANNER -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=190&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=44&fontColor=e6edf3&fontAlignY=32"
+  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=200&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=46&fontColor=e6edf3&fontAlignY=30"
   width="100%"
 />
 
-<!-- LINE 1: IDENTITY -->
-<p align="center"
-   style="
-     margin-top:-70px;
-     color:#c9d1d9;
-     font-size:14px;
-     letter-spacing:0.9px;
-     font-weight:500;
-     text-transform:uppercase;
-   ">
+<!-- IDENTITY -->
+<p style="
+  margin-top:-72px;
+  color:#c9d1d9;
+  font-size:14px;
+  letter-spacing:1px;
+  font-weight:500;
+  text-transform:uppercase;
+">
   Computer Science Student
 </p>
 
-<!-- LINE 2: SKILLS / WORK -->
-<p align="center"
-   style="
-     margin-top:-8px;
-     color:#9da7b1;
-     font-size:13px;
-     letter-spacing:0.6px;
-     font-weight:400;
-   ">
+<!-- ROLE / SKILLS -->
+<p style="
+  margin-top:-6px;
+  color:#9da7b1;
+  font-size:13px;
+  letter-spacing:0.6px;
+">
   Web Developer • Graphics Designer • Problem Solver
 </p>
 
 </div>
->
 
+<br/>
 
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe;%F0%9F%9A%80+Building+Tomorrow's+Solutions+Today;%E2%9A%A1+Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
-  </a>
-</div>
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                       TYPING INTRO                            -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58a6ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh%20🇧🇩-238636?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-f78166?style=for-the-badge" />
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=8b949e&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=Welcome+to+my+Digital+Universe;Building+Solutions+with+Logic+and+Design;Turning+Ideas+into+Scalable+Code"
+  alt="Typing Animation"
+/>
+
 </div>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                         INFO BADGES                           -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-30363d?style=for-the-badge&logo=codeforces&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/Location-Bangladesh-30363d?style=for-the-badge&logo=google-maps&logoColor=e6edf3" />
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-30363d?style=for-the-badge&logo=google-translate&logoColor=e6edf3" />
+
+</div>
+
 <br/>
+
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                        DIVIDER                                -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+<img 
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+/>
+
 <!-- ABOUT ME SECTION -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
