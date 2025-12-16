@@ -1,9 +1,6 @@
 <!-- HEADER START -->
 <div align="center">
-  
-  <!-- CLEAN HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=120&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=40&fontColor=f0f6fc&fontAlignY=50" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,35,30&height=200&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=18&descAlignY=65&descColor=cyan&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
