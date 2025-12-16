@@ -5,13 +5,6 @@
   width="100%"
 />
 
-<p align="center"
-   style="
-     margin-top:-35px;
-     color:#c9d1d9;
-     font-size:14px;
-     letter-spacing:0.6px;
-   ">
   Computer Science Student • Web Developer • Graphics Designer • Problem Solver
 </p>
 
