@@ -2,7 +2,7 @@
 
 <!-- HEADER BANNER -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=170&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=44&fontColor=e6edf3&fontAlignY=38"
+  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=70&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=44&fontColor=e6edf3&fontAlignY=38"
   width="100%"
 />
 
