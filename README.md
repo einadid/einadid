@@ -2,24 +2,37 @@
 
 <!-- HEADER BANNER -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=70&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=44&fontColor=e6edf3&fontAlignY=38"
+  src="https://capsule-render.vercel.app/api?type=rect&color=1c1f26&height=190&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=44&fontColor=e6edf3&fontAlignY=32"
   width="100%"
 />
 
-<!-- SUBTITLE INSIDE BANNER EFFECT -->
+<!-- LINE 1: IDENTITY -->
 <p align="center"
    style="
-     margin-top:-48px;
+     margin-top:-70px;
      color:#c9d1d9;
-     font-size:14.5px;
-     letter-spacing:0.8px;
+     font-size:14px;
+     letter-spacing:0.9px;
      font-weight:500;
      text-transform:uppercase;
    ">
-  Computer Science Student • Web Developer • Graphics Designer • Problem Solver
+  Computer Science Student
+</p>
+
+<!-- LINE 2: SKILLS / WORK -->
+<p align="center"
+   style="
+     margin-top:-8px;
+     color:#9da7b1;
+     font-size:13px;
+     letter-spacing:0.6px;
+     font-weight:400;
+   ">
+  Web Developer • Graphics Designer • Problem Solver
 </p>
 
 </div>
+>
 
 
 
