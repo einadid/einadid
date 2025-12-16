@@ -1,7 +1,3 @@
-<!-- ═════════════════════════════════════════════════════════════ -->
-<!--                         HEADER SECTION                        -->
-<!-- ═════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <!-- HEADER BANNER -->
@@ -10,42 +6,40 @@
   width="100%"
 />
 
-<!-- BOX 1: IDENTITY -->
-<p style="
-  margin-top:-62px;
+<!-- BOX 1: COMPUTER SCIENCE STUDENT -->
+<div style="
+  margin-top:-60px;
   display:inline-block;
-  padding:6px 14px;
+  padding:7px 18px;
   border:1px solid #30363d;
-  border-radius:6px;
+  border-radius:8px;
+  background-color:#0d1117;
   color:#c9d1d9;
   font-size:13px;
   letter-spacing:0.8px;
   text-transform:uppercase;
-  background-color:#0d1117;
 ">
   Computer Science Student
-</p>
+</div>
 
-<br/>
+<br/><br/>
 
 <!-- BOX 2: SKILLS -->
-<p style="
-  margin-top:6px;
+<div style="
   display:inline-block;
-  padding:6px 16px;
+  padding:7px 20px;
   border:1px solid #30363d;
-  border-radius:6px;
+  border-radius:8px;
+  background-color:#0d1117;
   color:#9da7b1;
   font-size:13px;
-  letter-spacing:0.5px;
-  background-color:#0d1117;
+  letter-spacing:0.6px;
 ">
   Web Developer • Graphics Designer • Problem Solver
-</p>
+</div>
 
 </div>
 
-<br/>
 
 <!-- ═════════════════════════════════════════════════════════════ -->
 <!--                       TYPING INTRO                            -->
