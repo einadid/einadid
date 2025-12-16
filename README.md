@@ -1,222 +1,402 @@
-# ✨ Super Aesthetic GitHub Profile README
+<br/>
 
-Create a repo named **exactly** your GitHub username, then add this `README.md`:
+<sub>© 2025 Emamul Islam Nadid • Built with ❤️ and lots of ☕</sub>
 
----
+<br/>
 
-```markdown
-<!-- HEADER -->
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hey,%20I'm%20Your%20Name%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20UI/UX%20Enthusiast%20|%20Open%20Source%20Lover&descAlignY=52&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=3" width="100%"/>
 
 </div>
 
-<!-- TYPING SVG -->
+Professional GitHub Profile README - Step by Step Guide
+📁 Complete Setup Guide
+
+I'll give you a clean, professional GitHub profile with off-white/gray theme, step by step.
+
+STEP 1: Create Repository
+code
+Code
+download
+content_copy
+expand_less
+1. Go to GitHub.com
+2. Click "New Repository"
+3. Name it EXACTLY: einadid (your username)
+4. Make it PUBLIC
+5. Check "Add a README file"
+6. Click "Create repository"
+STEP 2: Header Section
+code
+Markdown
+download
+content_copy
+expand_less
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                            HEADER SECTION                                   -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Building+beautiful+things+for+the+web+%F0%9F%8C%90;Turning+coffee+into+code+since+2020+%E2%98%95;Let's+create+something+amazing+together+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
+  <!-- CLEAN HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=120&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=40&fontColor=f0f6fc&fontAlignY=50" width="100%" />
+
 </div>
 
-<!-- SOCIAL BADGES -->
+<br/>
+
+<!-- INTRO TABLE -->
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
-  
-  <br>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  ![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blueviolet)
-  
-</div>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<br>
-
-<!-- ABOUT ME -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
-
-## 🌸 About Me
+### 👋 Hello, I'm Nadid
 
 ```yaml
-name: Your Name
-location: Your City, Country 🌍
-current_focus: Building awesome web applications
+name: Emamul Islam Nadid
+location: Dhaka, Bangladesh 🇧🇩
+role: Full Stack Developer
+education: CSE Student
+status: Open to Opportunities
+<br/>
 
-education:
-  - "🎓 BS Computer Science @ Your University"
-  - "📚 Self-taught in UI/UX Design"
 
-currently:
-  - "🔭 Working on: Something Amazing"
-  - "🌱 Learning: Three.js & WebGL"
-  - "👯 Open to: Collaborations"
-  - "💬 Ask me about: React, Node, Design"
+![alt text](https://img.shields.io/badge/GitHub-2d333b?style=flat-square&logo=github&logoColor=white)
 
-fun_facts:
-  - "⚡ I debug with console.log"
-  - "🎮 Gamer when not coding"
-  - "☕ Coffee enthusiast"
-  - "🐱 Cat person"
-```
 
-<br clear="both">
+![alt text](https://img.shields.io/badge/LinkedIn-2d333b?style=flat-square&logo=linkedin&logoColor=0A66C2)
 
----
 
-<!-- TECH STACK -->
-## 🛠️ Tech Universe
+![alt text](https://img.shields.io/badge/Email-2d333b?style=flat-square&logo=gmail&logoColor=EA4335)
 
-<div align="center">
 
-### 👩‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![alt text](https://img.shields.io/badge/Portfolio-2d333b?style=flat-square&logo=firefox&logoColor=white)
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+</td>
+<td width="45%" align="center">
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="95%" style="border-radius:10px"/>
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+</td>
+</tr>
+</table>
 </div>
 
----
+<br/>
 
-<!-- GITHUB STATS -->
+<!-- DIVIDER LINE -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+```
+
+STEP 3: About Me Section
+code
+Markdown
+download
+content_copy
+expand_less
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                            ABOUT ME SECTION                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+## 📋 About Me
+
+<table>
+<tr>
+<td>
+
+```js
+const nadid = {
+    pronouns: "He/Him",
+    location: "Bangladesh",
+    
+    education: {
+        degree: "BSc in Computer Science",
+        status: "Undergraduate Student"
+    },
+    
+    currentFocus: [
+        "Full Stack Web Development",
+        "System Design & Architecture",
+        "Cloud Computing & DevOps"
+    ],
+    
+    workingOn: "Building scalable web applications",
+    learning: "Advanced React patterns & Microservices",
+    askMeAbout: ["Web Dev", "Tech", "Coffee ☕"],
+    
+    funFact: "I debug with console.log and I'm not ashamed!"
+};
+</td>
+<td width="40%">
+
+🎯 Quick Facts	
+🔭 Working on	Personal Projects
+🌱 Learning	AI/ML & Cloud
+💬 Ask me about	JavaScript, Python
+⚡ Fun fact	Night owl coder 🦉
+📫 Reach me	emamulnadid@gmail.com
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+```
+
+STEP 4: Tech Stack Section
+code
+Markdown
+download
+content_copy
+expand_less
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          TECH STACK SECTION                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 💻 Languages
+<br/>
+
+![C](https://img.shields.io/badge/C-2d333b?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-2d333b?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-2d333b?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d333b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-2d333b?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-2d333b?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+
+</td>
+<td valign="top" width="33%">
+
+### 🌐 Frontend
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-2d333b?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-2d333b?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-2d333b?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-2d333b?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-2d333b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2d333b?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-2d333b?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-2d333b?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-2d333b?style=for-the-badge&logo=django&logoColor=092E20)
+![FastAPI](https://img.shields.io/badge/FastAPI-2d333b?style=for-the-badge&logo=fastapi&logoColor=009688)
+![GraphQL](https://img.shields.io/badge/GraphQL-2d333b?style=for-the-badge&logo=graphql&logoColor=E10098)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🗄️ Database
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-2d333b?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d333b?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-2d333b?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-2d333b?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Firebase](https://img.shields.io/badge/Firebase-2d333b?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ Cloud & DevOps
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-2d333b?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2d333b?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/K8s-2d333b?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Vercel](https://img.shields.io/badge/Vercel-2d333b?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-2d333b?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+</td>
+<td valign="top" width="33%">
+
+### 🔧 Tools
+<br/>
+
+![Git](https://img.shields.io/badge/Git-2d333b?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-2d333b?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-2d333b?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-2d333b?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Linux](https://img.shields.io/badge/Linux-2d333b?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+STEP 5: GitHub Stats Section
+code
+Markdown
+download
+content_copy
+expand_less
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB STATS SECTION                               -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=A177FE&icon_color=A177FE&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=A177FE&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=einadid&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=f0f6fc&text_color=adbac7&icon_color=768390&border_radius=10" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einadid&layout=compact&hide_border=true&langs_count=8&bg_color=22272e&title_color=f0f6fc&text_color=adbac7&border_radius=10" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=einadid&hide_border=true&background=22272e&stroke=373e47&ring=768390&fire=f0f6fc&currStreakNum=f0f6fc&sideNums=adbac7&currStreakLabel=768390&sideLabels=768390&dates=636e7b&border_radius=10" width="70%"/>
+
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+STEP 6: Contribution Graph & Trophies
+code
+Markdown
+download
+content_copy
+expand_less
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION GRAPH SECTION                            -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" alt="Streak Stats"/>
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=einadid&bg_color=22272e&color=adbac7&line=768390&point=f0f6fc&area=true&hide_border=true&area_color=373e47" width="95%"/>
+
 </div>
 
-<br>
+<br/>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=0d1117&color=A177FE&line=A177FE&point=FFFFFF&area_color=A177FE&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-## 🌟 Featured Projects
+## 🏆 GitHub Trophies
 
 <div align="center">
   
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name-1&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/yourusername/project-name-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name-2&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/yourusername/project-name-2)
+<img src="https://github-profile-trophy.vercel.app/?username=einadid&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
 
 </div>
 
----
+<br/>
 
-<!-- SPOTIFY -->
-## 🎧 Vibing To
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+STEP 7: Featured Projects Section
+code
+Markdown
+download
+content_copy
+expand_less
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                        FEATURED PROJECTS SECTION                            -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
+<br/>
 
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<!-- SUPPORT -->
-## 💖 Support My Work
+## 💼 Featured Projects
 
 <div align="center">
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/yourusername)
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/einadid/project-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=project-1&bg_color=22272e&title_color=f0f6fc&text_color=adbac7&icon_color=768390&hide_border=true&border_radius=10" width="100%"/>
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/einadid/project-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=project-2&bg_color=22272e&title_color=f0f6fc&text_color=adbac7&icon_color=768390&hide_border=true&border_radius=10" width="100%"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/einadid/project-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=project-3&bg_color=22272e&title_color=f0f6fc&text_color=adbac7&icon_color=768390&hide_border=true&border_radius=10" width="100%"/>
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/einadid/project-4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=project-4&bg_color=22272e&title_color=f0f6fc&text_color=adbac7&icon_color=768390&hide_border=true&border_radius=10" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/einadid?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-2d333b?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br/>
 
-<!-- QUOTE -->
-<div align="center">
-  
-### 💭 Random Dev Quote
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+STEP 8: Snake Animation (Optional Setup)
+First, create the workflow file:
 
-</div>
+File: .github/workflows/snake.yml
 
----
-
-<!-- FOOTER -->
-<div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72)
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
-  
-</div>
-
-<!-- SECRET -->
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██╗  ██╗██╗██████╗ ██████╗ ███████╗███╗   ██╗                     ║
-║   ██║  ██║██║██╔══██╗██╔══██╗██╔════╝████╗  ██║                     ║
-║   ███████║██║██║  ██║██║  ██║█████╗  ██╔██╗ ██║                     ║
-║   ██╔══██║██║██║  ██║██║  ██║██╔══╝  ██║╚██╗██║                     ║
-║   ██║  ██║██║██████╔╝██████╔╝███████╗██║ ╚████║                     ║
-║   ╚═╝  ╚═╝╚═╝╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝                     ║
-║                                                                      ║
-║   🥚 You found the Easter egg! You're awesome! 🎉                    ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-```
-
----
-
-## 🐍 Snake Animation Setup
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
+code
+Yaml
+download
+content_copy
+expand_less
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -229,9 +409,10 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: yourusername
+          github_user_name: einadid
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
             
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -239,4 +420,552 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Then add to README:
+code
+Markdown
+download
+content_copy
+expand_less
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          SNAKE ANIMATION SECTION                            -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/einadid/einadid/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/einadid/einadid/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/einadid/einadid/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+STEP 9: Connect & Footer Section
+code
+Markdown
+download
+content_copy
+expand_less
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          CONNECT SECTION                                    -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<a href="https://github.com/einadid">
+<img src="https://img.shields.io/badge/GitHub-2d333b?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/>
+<sub><b>@einadid</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://linkedin.com/in/einadid">
+<img src="https://img.shields.io/badge/LinkedIn-2d333b?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<br/>
+<sub><b>einadid</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<a href="mailto:emamulnadid@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-2d333b?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<br/>
+<sub><b>Email Me</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://twitter.com/einadid">
+<img src="https://img.shields.io/badge/Twitter-2d333b?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<br/>
+<sub><b>@einadid</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://discord.com/users/einadid">
+<img src="https://img.shields.io/badge/Discord-2d333b?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+</a>
+<br/>
+<sub><b>einadid</b></sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                              FOOTER SECTION                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=1" width="100%"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=einadid&style=flat-square&color=2d333b&label=Profile+Views)
+
+<br/>
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "First, solve the problem. Then, write the code." - John Johnson  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+code
+Code
+download
+content_copy
+expand_less
+<br/>
+
+<sub>© 2025 Emamul Islam Nadid • Built with ❤️ and lots of ☕</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=3" width="100%"/>
+
+</div>
+📋 COMPLETE COMBINED CODE
+
+Copy everything below into your README.md:
+
+code
+Markdown
+download
+content_copy
+expand_less
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                         PROFESSIONAL GITHUB PROFILE                         -->
+<!--                            EMAMUL ISLAM NADID                               -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=120&section=header&text=EMAMUL%20ISLAM%20NADID&fontSize=40&fontColor=f0f6fc&fontAlignY=50" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 Hello, I'm Nadid
+
+```yaml
+name: Emamul Islam Nadid
+location: Dhaka, Bangladesh 🇧🇩
+role: Full Stack Developer
+education: CSE Student
+status: Open to Opportunities
+<br/>
+
+
+![alt text](https://img.shields.io/badge/GitHub-2d333b?style=flat-square&logo=github&logoColor=white)
+
+
+![alt text](https://img.shields.io/badge/LinkedIn-2d333b?style=flat-square&logo=linkedin&logoColor=0A66C2)
+
+
+![alt text](https://img.shields.io/badge/Email-2d333b?style=flat-square&logo=gmail&logoColor=EA4335)
+
+
+![alt text](https://img.shields.io/badge/Portfolio-2d333b?style=flat-square&logo=firefox&logoColor=white)
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="95%" style="border-radius:10px"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+📋 About Me
+<table>
+<tr>
+<td>
+
+code
+Js
+download
+content_copy
+expand_less
+const nadid = {
+    pronouns: "He/Him",
+    location: "Bangladesh",
+    
+    education: {
+        degree: "BSc in Computer Science",
+        status: "Undergraduate Student"
+    },
+    
+    currentFocus: [
+        "Full Stack Web Development",
+        "System Design & Architecture",
+        "Cloud Computing & DevOps"
+    ],
+    
+    workingOn: "Building scalable web applications",
+    learning: "Advanced React patterns & Microservices",
+    askMeAbout: ["Web Dev", "Tech", "Coffee ☕"],
+    
+    funFact: "I debug with console.log and I'm not ashamed!"
+};
+</td>
+<td width="40%">
+
+🎯 Quick Facts	
+🔭 Working on	Personal Projects
+🌱 Learning	AI/ML & Cloud
+💬 Ask me about	JavaScript, Python
+⚡ Fun fact	Night owl coder 🦉
+📫 Reach me	emamulnadid@gmail.com
+</td>
+</tr>
+</table>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+🛠️ Tech Stack
+<table>
+<tr>
+<td valign="top" width="33%">
+
+💻 Languages
+<br/>
+
+
+![alt text](https://img.shields.io/badge/C-2d333b?style=for-the-badge&logo=c&logoColor=A8B9CC)
+
+
+![alt text](https://img.shields.io/badge/C++-2d333b?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+
+![alt text](https://img.shields.io/badge/Python-2d333b?style=for-the-badge&logo=python&logoColor=3776AB)
+
+
+![alt text](https://img.shields.io/badge/JavaScript-2d333b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+![alt text](https://img.shields.io/badge/TypeScript-2d333b?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+
+![alt text](https://img.shields.io/badge/Java-2d333b?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+
+</td>
+<td valign="top" width="33%">
+
+🌐 Frontend
+<br/>
+
+
+![alt text](https://img.shields.io/badge/HTML5-2d333b?style=for-the-badge&logo=html5&logoColor=E34F26)
+
+
+![alt text](https://img.shields.io/badge/CSS3-2d333b?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+
+![alt text](https://img.shields.io/badge/React-2d333b?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+![alt text](https://img.shields.io/badge/Next.js-2d333b?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+![alt text](https://img.shields.io/badge/Tailwind-2d333b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+
+![alt text](https://img.shields.io/badge/Bootstrap-2d333b?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+</td>
+<td valign="top" width="33%">
+
+⚙️ Backend
+<br/>
+
+
+![alt text](https://img.shields.io/badge/Node.js-2d333b?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+
+![alt text](https://img.shields.io/badge/Express-2d333b?style=for-the-badge&logo=express&logoColor=white)
+
+
+![alt text](https://img.shields.io/badge/Django-2d333b?style=for-the-badge&logo=django&logoColor=092E20)
+
+
+![alt text](https://img.shields.io/badge/FastAPI-2d333b?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+
+![alt text](https://img.shields.io/badge/GraphQL-2d333b?style=for-the-badge&logo=graphql&logoColor=E10098)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+🗄️ Database
+<br/>
+
+
+![alt text](https://img.shields.io/badge/MySQL-2d333b?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+
+![alt text](https://img.shields.io/badge/PostgreSQL-2d333b?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+
+![alt text](https://img.shields.io/badge/MongoDB-2d333b?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+
+![alt text](https://img.shields.io/badge/Redis-2d333b?style=for-the-badge&logo=redis&logoColor=DC382D)
+
+
+![alt text](https://img.shields.io/badge/Firebase-2d333b?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+</td>
+<td valign="top" width="33%">
+
+☁️ Cloud & DevOps
+<br/>
+
+
+![alt text](https://img.shields.io/badge/AWS-2d333b?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+
+
+![alt text](https://img.shields.io/badge/Docker-2d333b?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+
+![alt text](https://img.shields.io/badge/K8s-2d333b?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+
+
+![alt text](https://img.shields.io/badge/Vercel-2d333b?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+![alt text](https://img.shields.io/badge/Netlify-2d333b?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+</td>
+<td valign="top" width="33%">
+
+🔧 Tools
+<br/>
+
+
+![alt text](https://img.shields.io/badge/Git-2d333b?style=for-the-badge&logo=git&logoColor=F05032)
+
+
+![alt text](https://img.shields.io/badge/VS_Code-2d333b?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+
+![alt text](https://img.shields.io/badge/Figma-2d333b?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+
+![alt text](https://img.shields.io/badge/Postman-2d333b?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+
+![alt text](https://img.shields.io/badge/Linux-2d333b?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</td>
+</tr>
+</table>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+📊 GitHub Analytics
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=einadid&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=f0f6fc&text_color=adbac7&icon_color=768390&border_radius=10" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=einadid&layout=compact&hide_border=true&langs_count=8&bg_color=22272e&title_color=f0f6fc&text_color=adbac7&border_radius=10" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=einadid&hide_border=true&background=22272e&stroke=373e47&ring=768390&fire=f0f6fc&currStreakNum=f0f6fc&sideNums=adbac7&currStreakLabel=768390&sideLabels=768390&dates=636e7b&border_radius=10" width="70%"/>
+
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+📈 Contribution Graph
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=einadid&bg_color=22272e&color=adbac7&line=768390&point=f0f6fc&area=true&hide_border=true&area_color=373e47" width="95%"/>
+
+</div>
+
+<br/>
+
+🏆 GitHub Trophies
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=einadid&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
+
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<br/>
+
+🤝 Let's Connect
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<a href="https://github.com/einadid">
+<img src="https://img.shields.io/badge/GitHub-2d333b?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/>
+<sub><b>@einadid</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://linkedin.com/in/einadid">
+<img src="https://img.shields.io/badge/LinkedIn-2d333b?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<br/>
+<sub><b>einadid</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<a href="mailto:emamulnadid@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-2d333b?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<br/>
+<sub><b>Email Me</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://twitter.com/einadid">
+<img src="https://img.shields.io/badge/Twitter-2d333b?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<br/>
+<sub><b>@einadid</b></sub>
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://discord.com/users/einadid">
+<img src="https://img.shields.io/badge/Discord-2d333b?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+</a>
+<br/>
+<sub><b>einadid</b></sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=1" width="100%"/>
+
+<br/>
+
+
+![alt text](https://komarev.com/ghpvc/?username=einadid&style=flat-square&color=2d333b&label=Profile+Views)
+
+<br/>
+
+code
+Code
+download
+content_copy
+expand_less
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "First, solve the problem. Then, write the code." - John Johnson  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+<br/>
+
+
+<sub>© 2025 Emamul Islam Nadid • Built with ❤️ and lots of ☕</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=3" width="100%"/>
+
+</div>
 ```
+
+✅ Color Palette Used
+Element	Color Code	Description
+Background	#22272e	Dark gray-blue
+Surface	#2d333b	Medium gray
+Border	#373e47	Light gray border
+Title	#f0f6fc	Off-white
+Text	#adbac7	Light gray text
+Muted	#768390	Muted gray
+Subtle	#636e7b	Subtle gray
+🔧 Things to Customize
+
+Replace einadid with your actual GitHub username
+
+Update social links with your real profiles
+
+Replace project-1, project-2 etc. with your actual repository names
+
+Update email to your actual email address
+
+Would you like me to add more sections or modify any part?
+
+ei shobtake step step by dao
