@@ -14,6 +14,26 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Bengali-f78166?style=for-the-badge" />
 </div>
 
+<!-- ABOUT ME SECTION -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```python
+class EmamulIslamNadid:
+    def __init__(self):
+        self.name = "Emamul Islam Nadid"
+        self.role = "Full Stack Developer"
+        self.education = "BSc in Computer Science & Engineering"
+        self.location = "Bangladesh 🇧🇩"
+        self.languages = ["Bengali", "English"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! Let's build something amazing together!")
+
+me = EmamulIslamNadid()
+me.say_hi()
+
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
