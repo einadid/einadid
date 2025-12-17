@@ -248,8 +248,8 @@ me.say_hi()
    <!-- PROJECT 3: HomeHero Server v2 -->
   <a href="https://github.com/einadid/quickmed" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=homehero-server-v2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-      alt="HomeHero Server v2"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=quickmed&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="QuickMed"
     />
   </a>
 
