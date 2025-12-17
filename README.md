@@ -1,8 +1,3 @@
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon">
-  About Me
-</h2>
-
 <!-- ========================================================= -->
 <!--                            HEADER                         -->
 <!-- ========================================================= -->
@@ -111,7 +106,10 @@
 <!-- ========================================================= -->
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon"> About Me
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon">
+  About Me
+</h2>
 
 <table>
 <tr>
@@ -146,14 +144,19 @@ class EmamulIslamNadid:
 
 </td> </tr> </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
+  width="100%"
+  alt="wave divider"
+/>
 <!-- ========================================================= -->
 <!--                 PART 4: CONNECT WITH ME                   -->
 <!-- ========================================================= -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" alt="Handshake icon"> Connect With Me
-
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" alt="Handshake icon">
+  Connect With Me
+</h2>
 
 <br/>
 
@@ -224,15 +227,18 @@ class EmamulIslamNadid:
 <br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
   width="100%"
-  alt="section divider"
+  alt="wave divider"
 />
 
 <!-- ========================================================= -->
 <!--                 PART 5: TECH STACK & TOOLS                -->
 <!-- ========================================================= -->
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26" alt="Tools icon"> Tech Stack and Tools
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26" alt="Tools icon">
+  Tech Stack and Tools
+</h2>
 
 <br/>
 
@@ -299,14 +305,17 @@ class EmamulIslamNadid:
 <br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
   width="100%"
-  alt="section divider"
+  alt="wave divider"
 />
 <!-- ========================================================= -->
 <!--                 PART 6: FEATURED PROJECTS                -->
 <!-- ========================================================= -->
-## <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="26" alt="Star icon"> Featured Projects
+<h2 align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="26" alt="Star icon">
+  Featured Projects
+</h2>
 
 <div align="center">
 
@@ -346,12 +355,18 @@ class EmamulIslamNadid:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
+  width="100%"
+  alt="wave divider"
+/>
 <!-- ========================================================= -->
 <!--                 PART 7: GITHUB ANALYTICS                  -->
 <!-- ========================================================= -->
-
-## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="26" alt="Graph animation"> Contribution Graph
+<h2 align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="26" alt="Graph animation">
+  Contribution Graph
+</h2>
 
 <div align="center">
   <table>
@@ -391,14 +406,19 @@ class EmamulIslamNadid:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
+  width="100%"
+  alt="wave divider"
+/>
 <!-- ========================================================= -->
 <!--               PART 8: CONTRIBUTION SNAKE                  -->
 <!-- ========================================================= -->
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNmdWFpNTc5MzRwM3o0dmRldWY4d2YwMTBlc3h5cTMzY2d6Mmd1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6W7labESIQ4P3IECui/giphy.gif" width="26" alt="Snake animation"> Contribution Snake
-
+<h2 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNmdWFpNTc5MzRwM3o0dmRldWY4d2YwMTBlc3h5cTMzY2d6Mmd1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6W7labESIQ4P3IECui/giphy.gif" width="26" alt="Snake animation">
+  Contribution Snake
+</h2>
 
 <div align="center">
   <picture>
@@ -418,8 +438,11 @@ class EmamulIslamNadid:
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
+  width="100%"
+  alt="wave divider"
+/>
 <!-- ========================================================= -->
 <!--                         PART 9: FOOTER                    -->
 <!-- ========================================================= -->
