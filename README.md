@@ -159,6 +159,7 @@ class EmamulIslamNadid:
   />
 </div>
 
+<br/>
 
 <div align="center">
 
@@ -189,31 +190,12 @@ class EmamulIslamNadid:
   </a>
   <a href="https://x.com/einadid" target="_blank">
     <img
-      src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"
+      src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"
       alt="X (Twitter)"
     />
   </a>
-    <br/><br/>      
 
-  <!--            
-  
-   <!-- FREELANCE / HIRE ME (optional) 
-  <a href="https://www.fiverr.com/einadid" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat-square&logo=fiverr&logoColor=white"
-      alt="Fiverr"
-    />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~einadid" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=flat-square&logo=upwork&logoColor=white"
-      alt="Upwork"
-    />
-  </a>
-
-  <br/><br/>      
-  -->
-
+  <br/><br/>
 
   <!-- SECONDARY LINKS -->
   <a href="https://facebook.com/einadid" target="_blank">
@@ -250,6 +232,7 @@ class EmamulIslamNadid:
   width="100%"
   alt="section divider"
 />
+
 <!-- ========================================================= -->
 <!--                 PART 5: TECH STACK & TOOLS                -->
 <!-- ========================================================= -->
