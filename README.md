@@ -122,10 +122,5 @@ print("Thanks for visiting my GitHub!")
 </div>
 
 <br/>
-
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Animated divider"
-/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
