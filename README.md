@@ -102,10 +102,7 @@
 <!-- ========================================================= -->
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
-<div style="background-color:#30363d; padding:8px 14px; border-radius:6px; color:#c9d1d9; font-weight:600;">
-  About Me
-</div
-<table>
+**About Me**
 <tr>
 <td width="60%">
 
