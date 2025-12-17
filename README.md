@@ -8,7 +8,7 @@
     src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=120&section=header&text=Emamul%20Islam%20Nadid&fontSize=42&fontColor=c9d1d9&animation=none&fontAlignY=50"
     width="100%"
     alt="Emamul Islam Nadid header"
-    style="margin:0; padding:0;"
+    style="margin:-10px; padding:0;"
   />
 
 <!-- ========================================================= -->
