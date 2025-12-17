@@ -13,14 +13,14 @@
 
   <!-- ROLE / TAGLINE BOXES -->
   <div style="
-    margin-top:-10px;
+    margin-top: 0px;
     display:flex;
     flex-wrap:wrap;
     justify-content:center;
     gap:10px;
   ">
     <div style="
-      padding:6px 16px;
+      padding:6px 6px;
       border:1px solid #30363d;
       border-radius:999px;
       background-color:#0d1117;
