@@ -91,11 +91,11 @@
 <!-- ========================================================= -->
 
 ## About Me
-
+```
 <table>
   <tr>
     <td width="60%">
-
+      
 <pre><code class="language-python">
 class EmamulIslamNadid:
     role = "Full Stack Developer"
@@ -118,17 +118,17 @@ class EmamulIslamNadid:
         "Contributing to open-source projects",
     ]
 </code></pre>
-
-    </td>
+```
+  </td>
     <td width="40%" align="center">
 
-      <img
+  <img
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"
         width="300"
         alt="Developer working on computer"
       />
 
-    </td>
+  </td>
   </tr>
 </table>
 
