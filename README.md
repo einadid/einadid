@@ -37,7 +37,8 @@
   />
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
-</div><!-- ========================================================= -->
+</div>
+<!-- ========================================================= -->
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
 
@@ -46,7 +47,7 @@
 <img
   align="right"
   alt="Developer working on computer"
-  width="360"
+  width="340"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 
@@ -54,7 +55,7 @@
 class EmamulIslamNadid:
     def __init__(self):
         self.name = "Emamul Islam Nadid"
-        self.title = "Full Stack Developer"
+        self.role = "Full Stack Developer"
         self.education = "BSc in Computer Science & Engineering"
         self.location = "Bangladesh"
         self.languages = ["Bengali", "English"]
@@ -68,18 +69,18 @@ class EmamulIslamNadid:
 
     def current_focus(self):
         return [
-            "Building scalable, real-world applications",
-            "Writing clean and maintainable code",
-            "Learning modern frameworks & best practices",
+            "Building scalable full stack applications",
+            "Writing clean, maintainable code",
+            "Learning modern tools & frameworks",
             "Contributing to open-source projects",
         ]
 
-    def say_hello(self):
+    def introduction(self):
         return (
-            "Thanks for stopping by! "
-            "Always open to collaboration and learning."
+            "I enjoy turning ideas into practical software solutions "
+            "and continuously improving my skills as a developer."
         )
 
 
 me = EmamulIslamNadid()
-print(me.say_hello())
+print(me.introduction())
