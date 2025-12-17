@@ -10,7 +10,6 @@
     alt="Emamul Islam Nadid header"
     style="margin:-10px; padding:0;"
   />
-
 </div>
 <!-- ========================================================= -->
 <!--              PART 2: ROLE & INFO BADGES                  -->
@@ -99,92 +98,47 @@
   />
 </div>
 </div>
+
 <!-- ========================================================= -->
-<!--              PART 2: ROLE & INFO BADGES                  -->
+<!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
+## About Me
 
-<div align="center" style="margin-top:1px;">
+<table>
+<tr>
+<td width="60%">
 
-  <img
-    src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-30363d?style=for-the-badge&logo=code&logoColor=c9d1d9"
-    alt="Role: Full Stack Developer"
-  />
-  <img
-    src="https://img.shields.io/badge/Stack-MERN-30363d?style=for-the-badge&logo=mongodb&logoColor=c9d1d9"
-    alt="Stack: MERN"
-  />
-  <img
-    src="https://img.shields.io/badge/Focus-Frontend%20%7C%20UI%2FUX-30363d?style=for-the-badge&logo=react&logoColor=c9d1d9"
-    alt="Focus: Frontend | UI/UX"
-  />
-  <img
-    src="https://img.shields.io/badge/Status-Available%20for%20Freelance-30363d?style=for-the-badge&logo=fiverr&logoColor=c9d1d9"
-    alt="Status: Available for Freelance"
-  />
-  <img
-    src="https://img.shields.io/badge/Currently_Learning-Next.js-30363d?style=for-the-badge&logo=nextdotjs&logoColor=c9d1d9"
-    alt="Currently Learning: Next.js"
-  />
-  <img
-    src="https://img.shields.io/badge/Skill-Problem%20Solver-30363d?style=for-the-badge&logo=leetcode&logoColor=c9d1d9"
-    alt="Skill: Problem Solver"
-  />
+```python
+class EmamulIslamNadid:
+    role = "Full Stack Developer"
+    education = "BSc in Computer Science & Engineering"
+    university = "Port City International University"
+    expected_graduation = "2026"
+    location = "Bangladesh"
+    languages = ["Bengali", "English"]
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/einadid" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/LeetCode-Profile-30363d?style=for-the-badge&logo=leetcode&logoColor=f89f1b"
-      alt="LeetCode Profile"
-    />
-  </a>
+    interests = [
+        "Web Application Development",
+        "System Design & Architecture",
+        "Problem Solving",
+        "UI/UX & Visual Design",
+    ]
 
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/einadid" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Codeforces-Profile-30363d?style=for-the-badge&logo=codeforces&logoColor=c9d1d9"
-      alt="Codeforces Profile"
-    />
-  </a>
+    current_focus = [
+        "Building scalable applications",
+        "Writing clean, maintainable code",
+        "Contributing to open-source projects",
+    ]
 
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/einadid" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/HackerRank-Profile-30363d?style=for-the-badge&logo=hackerrank&logoColor=00EA64"
-      alt="HackerRank Profile"
-    />
-  </a>
+```
+</td> <td width="40%" align="center">
 
-  <img
-    src="https://img.shields.io/badge/Creative-Designer-30363d?style=for-the-badge&logo=figma&logoColor=c9d1d9"
-    alt="Creative Designer"
-  />
-  <img
-    src="https://img.shields.io/badge/Location-Bangladesh-30363d?style=for-the-badge&logo=google-maps&logoColor=c9d1d9"
-    alt="Location: Bangladesh"
-  />
-  <img
-    src="https://img.shields.io/badge/Languages-English%20%7C%20Bengali-30363d?style=for-the-badge&logo=google-translate&logoColor=c9d1d9"
-    alt="Languages: English | Bengali"
-  />
-  <img
-    src="https://img.shields.io/badge/OS-Windows-30363d?style=for-the-badge&logo=windows&logoColor=c9d1d9"
-    alt="OS: Windows"
-  />
-  <img
-    src="https://komarev.com/ghpvc/?username=einadid&style=for-the-badge&color=30363d"
-    alt="Profile views"
-  />
-  <img
-    src="https://img.shields.io/github/followers/einadid?style=for-the-badge&color=30363d&logo=github&logoColor=c9d1d9"
-    alt="GitHub followers"
-  />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Developer working on computer" />
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
-    width="100%"
-    alt="section divider"
-  />
-</div>
+</td> </tr> </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+
 
 <!-- ========================================================= -->
 <!--                 PART 4: CONNECT WITH ME                   -->
