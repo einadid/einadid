@@ -343,7 +343,7 @@ class EmamulIslamNadid:
 <!--                 PART 7: GITHUB ANALYTICS                  -->
 <!-- ========================================================= -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" alt="Graph icon"> GitHub Analytics
+## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="26" alt="Chart icon"> Contribution Graph
 
 <div align="center">
   <table>
@@ -394,7 +394,7 @@ class EmamulIslamNadid:
 <!--               PART 8: CONTRIBUTION SNAKE                  -->
 <!-- ========================================================= -->
 
-## 🐍 Contribution Snake
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="26" alt="Snake icon"> Contribution Snake
 
 <div align="center">
   <picture>
