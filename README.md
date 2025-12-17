@@ -1,6 +1,17 @@
-<p align="center">
-  <img src="https://i.imgur.com/7BAZ90E.jpg" width="" alt="Portfolio Image" />
-</p>
+<!-- ========================================================= -->
+<!--                     HEADER SECTION                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=150&section=header&text=Emamul%20Islam%20Nadid&fontSize=42&fontColor=f0f6fc&fontAlignY=50"
+    width="100%"
+    alt="Header banner with name Emamul Islam Nadid"
+  />
+
+</div>
+
 <!-- ========================================================= -->
 <!--              PART 2: INTRO IMAGE + ALL BADGES            -->
 <!-- ========================================================= -->
