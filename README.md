@@ -1,14 +1,3 @@
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" alt="Graph icon"> GitHub Analytics
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon"> About Me
-
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26" alt="Tools icon"> Tech Stack and Tools
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" alt="Handshake icon"> Connect With Me
-
-## <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="26" alt="Star icon"> Featured Projects
-
-
 <!-- ========================================================= -->
 <!--                     CLEAN HEADER                         -->
 <!-- ========================================================= -->
@@ -112,17 +101,7 @@
 <!-- ========================================================= -->
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
-
-<div align="center" style="margin:0; padding:0;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=About%20Me&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="70%"
-    alt="About Me"
-  />
-</div>
-
-
-
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon"> About Me
 <table>
 <tr>
 <td width="60%">
@@ -162,13 +141,8 @@ class EmamulIslamNadid:
 <!--                 PART 4: CONNECT WITH ME                   -->
 <!-- ========================================================= -->
 
-<div align="center" style="margin:0; padding:0;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Connect%20With%20Me&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="70%"
-    alt="Connect With Me"
-  />
-</div>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" alt="Handshake icon"> Connect With Me
+
 
 <br/>
 
@@ -247,14 +221,7 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <!--                 PART 5: TECH STACK & TOOLS                -->
 <!-- ========================================================= -->
-
-<div align="center" style="margin:0; padding:0;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Tech%20Stack%20and%20Tools&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="70%"
-    alt="Tech Stack and Tools"
-  />
-</div>
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26" alt="Tools icon"> Tech Stack and Tools
 
 <br/>
 
@@ -328,15 +295,7 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <!--                 PART 6: FEATURED PROJECTS                -->
 <!-- ========================================================= -->
-
-<div align="center" style="margin:0; padding:0;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Featured%20Projects&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="70%"
-    alt="Featured Projects"
-  />
-</div>
-
+## <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="26" alt="Star icon"> Featured Projects
 
 <div align="center">
 
