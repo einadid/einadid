@@ -1,16 +1,42 @@
 <!-- ========================================================= -->
-<!--                     HEADER SECTION                        -->
+<!--                  HEADER WITH GRID BG                     -->
 <!-- ========================================================= -->
 
-<div align="center">
+<div align="center" style="margin:0; padding:0;">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=2d333b&height=150&section=header&text=Emamul%20Islam%20Nadid&fontSize=42&fontColor=f0f6fc&fontAlignY=50"
-    width="100%"
-    alt="Header banner with name Emamul Islam Nadid"
-  />
+<svg width="100%" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+
+  <!-- Background -->
+  <rect width="1200" height="110" fill="#2d333b"/>
+
+  <!-- Grid pattern -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#444c56" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="110" fill="url(#grid)" opacity="0.4"/>
+
+  <!-- Name Text -->
+  <text
+    x="50%"
+    y="58%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="#f0f6fc"
+    font-size="42"
+    font-family="Segoe UI, Inter, Arial, sans-serif"
+    font-weight="600"
+    letter-spacing="1"
+  >
+    Emamul Islam Nadid
+  </text>
+
+</svg>
 
 </div>
+
 
 <!-- ========================================================= -->
 <!--              PART 2: INTRO IMAGE + ALL BADGES            -->
