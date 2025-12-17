@@ -412,25 +412,14 @@ class EmamulIslamNadid:
 
 <br/>
 
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Animated divider"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+
 
 <!-- ========================================================= -->
 <!--                         PART 9: FOOTER                    -->
 <!-- ========================================================= -->
 
 <div align="center">
-
-  <!-- PROFILE VIEWS -->
-  <img
-    src="https://komarev.com/ghpvc/?username=einadid&label=Profile%20Views&color=58a6ff&style=for-the-badge"
-    alt="Profile Views Counter"
-  />
-
-  <br/><br/>
 
   <!-- OUTRO TYPING -->
   <img
