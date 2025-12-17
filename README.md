@@ -42,14 +42,7 @@
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
 
-## 👋 About Me
-
-<img
-  align="right"
-  alt="Developer working on computer"
-  width="340"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-/>
+## About Me
 
 ```python
 class EmamulIslamNadid:
