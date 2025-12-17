@@ -418,12 +418,8 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20create%20something%20amazing.&fontSize=16&fontColor=8b949e&fontAlignY=65"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=160&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20create%20something%20amazing.%0A%C2%A9%202025%20Emamul%20Islam%20Nadid%20%C2%B7%20Happy%20Coding%20%F0%9F%92%BB&fontSize=16&fontColor=8b949e&fontAlignY=65"
   width="100%"
   alt="Footer"
 />
-
-<div align="center" style="margin-top:-28px; color:#8b949e; font-size:12px;">
-  © 2025 Emamul Islam Nadid · Happy Coding 💻
-</div>
 
