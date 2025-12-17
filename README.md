@@ -18,7 +18,7 @@
 <!--              PART 2: ROLE & INFO BADGES                  -->
 <!-- ========================================================= -->
 
-<div align="center" style="margin-top:1px;">
+<div align="center" style="margin-top:0;">
 
   <img
     src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-30363d?style=for-the-badge&logo=code&logoColor=c9d1d9"
@@ -30,7 +30,7 @@
   />
   <img
     src="https://img.shields.io/badge/Focus-Frontend%20%7C%20UI%2FUX-30363d?style=for-the-badge&logo=react&logoColor=c9d1d9"
-    alt="Focus: Frontend | UI/UX"
+    alt="Focus: Frontend"
   />
 <!--   <img
     src="https://img.shields.io/badge/Status-Available%20for%20Freelance-30363d?style=for-the-badge&logo=fiverr&logoColor=c9d1d9"
