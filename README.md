@@ -161,7 +161,6 @@ class EmamulIslamNadid:
     style="margin:0; padding:0;"
   />
 
-</div>
 
 <div align="center">
 
@@ -197,6 +196,7 @@ class EmamulIslamNadid:
     />
   </a>
     <br/><br/>      
+</div>
 
   <!--            
   
@@ -323,19 +323,13 @@ class EmamulIslamNadid:
       </td>
     </tr>
   </table>
-
   <br/>
-
 </div>
-
-<br/>
-
 <img
   src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
   width="100%"
   alt="section divider"
 />
-
 
 
 
