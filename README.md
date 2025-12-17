@@ -115,7 +115,6 @@ me = EmamulIslamNadid()
 me.say_hi()
 
 ---
-```
 
 ## 🌐 PART 4 – Connect / Social Links (Clean & Grouped)
 
