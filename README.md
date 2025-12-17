@@ -77,3 +77,4 @@ class EmamulIslamNadid:
 
 me = EmamulIslamNadid()
 print(me.introduction())
+
