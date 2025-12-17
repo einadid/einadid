@@ -342,7 +342,7 @@ class EmamulIslamNadid:
 <!--                 PART 7: GITHUB ANALYTICS                  -->
 <!-- ========================================================= -->
 
-## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="26" alt="Chart icon"> Contribution Graph
+## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="26" alt="Graph animation"> Contribution Graph
 
 <div align="center">
   <table>
@@ -373,7 +373,6 @@ class EmamulIslamNadid:
   <br/>
 
   <!-- CONTRIBUTION GRAPH -->
-## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="26" alt="Graph animation"> Contribution Graph
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=einadid&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity"
     width="100%"
