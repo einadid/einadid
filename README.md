@@ -1,54 +1,44 @@
 <p align="center">
   <img src="https://i.imgur.com/7BAZ90E.jpg" width="" alt="Portfolio Image" />
 </p>
-
 <!-- ========================================================= -->
-<!--                      PART 1: HEADER                       -->
+<!--               PART 2: TYPING INTRO + BADGES               -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-  <!-- MAIN NAME BANNER -->
+  <!-- TYPING HEADING -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=230&section=header&text=Emamul%20Islam%20Nadid&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=38"
-    width="100%"
-    alt="Header banner with name Emamul Islam Nadid"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Welcome+to+my+Digital+Universe;Full+Stack+Web+Developer+%7C+CSE+Student;Turning+Ideas+into+Clean%2C+Scalable+Code"
+    alt="Typing animation showing role and tagline"
   />
 
-  <!-- ROLE / TAGLINE BOXES -->
-  <div style="
-    margin-top:-70px;
-    display:flex;
-    flex-wrap:wrap;
-    justify-content:center;
-    gap:10px;
-  ">
-    <div style="
-      padding:6px 16px;
-      border:1px solid #30363d;
-      border-radius:999px;
-      background-color:#0d1117;
-      color:#c9d1d9;
-      font-size:12px;
-      letter-spacing:0.12em;
-      text-transform:uppercase;
-      font-weight:600;
-    ">
-      Computer Science &amp; Engineering Student
-    </div>
-    <div style="
-      padding:6px 16px;
-      border:1px solid #30363d;
-      border-radius:999px;
-      background:linear-gradient(135deg,#23863622,#58a6ff22);
-      color:#9da7b1;
-      font-size:12px;
-      letter-spacing:0.12em;
-      text-transform:uppercase;
-      font-weight:600;
-    ">
-      Full Stack Developer · Problem Solver · Designer
-    </div>
-  </div>
+  <br/>
+
+  <!-- INFO BADGES -->
+  <img
+    src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Development-30363d?style=for-the-badge&logo=github&logoColor=e6edf3"
+    alt="Focus: Full Stack Web Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Location-Bangladesh-30363d?style=for-the-badge&logo=google-maps&logoColor=e6edf3"
+    alt="Location: Bangladesh"
+  />
+  <img
+    src="https://img.shields.io/badge/Languages-English%20%7C%20Bengali-30363d?style=for-the-badge&logo=google-translate&logoColor=e6edf3"
+    alt="Languages: English and Bengali"
+  />
+  <img
+    src="https://img.shields.io/badge/OS-Windows%2011%20%7C%20Linux-30363d?style=for-the-badge&logo=windows&logoColor=e6edf3"
+    alt="Operating Systems: Windows 11 and Linux"
+  />
 
 </div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated divider"
+/>
