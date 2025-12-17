@@ -43,7 +43,7 @@
     src="https://img.shields.io/badge/Languages-English%20%7C%20Bengali-30363d?style=for-the-badge&logo=google-translate&logoColor=e6edf3"
   />
   <img
-    src="https://img.shields.io/badge/OS-Windows%2011%20%7C%20Linux-30363d?style=for-the-badge&logo=windows&logoColor=e6edf3"
+    src="https://img.shields.io/badge/OS-Windows?style=for-the-badge&logo=windows&logoColor=e6edf3"
   />
 
 </div>
