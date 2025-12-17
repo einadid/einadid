@@ -179,7 +179,7 @@ class EmamulIslamNadid:
       alt="X (Twitter)"
     />
   </a>
-
+    <br/><br/>      
 
   <!--            
   
@@ -235,4 +235,51 @@ class EmamulIslamNadid:
   src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
   width="100%"
   alt="section divider"
+/>
+<!-- ========================================================= -->
+<!--                 PART 5: TECH STACK & TOOLS                -->
+<!-- ========================================================= -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" alt="Keyboard typing"> Tech Stack &amp; Tools
+
+<div align="center">
+
+  <!-- LANGUAGES -->
+  <h3>💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java&theme=dark&perline=6" alt="Programming languages icons" />
+
+  <!-- FRONTEND / UI -->
+  <h3>🎨 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark&perline=6" alt="Frontend technologies icons" />
+
+  <!-- BACKEND / API -->
+  <h3>🛠 Backend &amp; APIs</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=6" alt="Backend technologies icons" />
+
+  <!-- DATABASES -->
+  <h3>🗄 Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark&perline=6" alt="Database technologies icons" />
+
+  <!-- TOOLS / DEVOPS -->
+  <h3>⚙️ Tools &amp; DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,aws,vscode,figma&theme=dark&perline=8" alt="Tools and DevOps icons" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- EXTRA: FULL ICON STRIP -->
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux,windows,aws,figma,vscode&theme=dark&perline=12"
+    alt="All tech stack icons"
+  />
+</div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated divider"
 />
