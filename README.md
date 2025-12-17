@@ -12,7 +12,6 @@
   />
 
 </div>
-
 <!-- ========================================================= -->
 <!--              PART 2: ROLE & INFO BADGES                  -->
 <!-- ========================================================= -->
@@ -43,16 +42,31 @@
     src="https://img.shields.io/badge/Skill-Problem%20Solver-30363d?style=for-the-badge&logo=leetcode&logoColor=c9d1d9"
     alt="Skill: Problem Solver"
   />
-  <a href="https://leetcode.com/einadid" target="_blank">
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/einadid" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/LeetCode-Profile-30363d?style=for-the-badge&logo=leetcode&logoColor=f89f1b"
       alt="LeetCode Profile"
     />
   </a>
-  <img
-    src="https://img.shields.io/badge/Codeforces-Profile-30363d?style=for-the-badge&logo=codeforces&logoColor=c9d1d9"
-    alt="Codeforces Profile"
-  />
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Codeforces-Profile-30363d?style=for-the-badge&logo=codeforces&logoColor=c9d1d9"
+      alt="Codeforces Profile"
+    />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/HackerRank-Profile-30363d?style=for-the-badge&logo=hackerrank&logoColor=00EA64"
+      alt="HackerRank Profile"
+    />
+  </a>
+
   <img
     src="https://img.shields.io/badge/Creative-Designer-30363d?style=for-the-badge&logo=figma&logoColor=c9d1d9"
     alt="Creative Designer"
@@ -83,7 +97,7 @@
     width="100%"
     alt="section divider"
   />
-
+</div>
 </div>
 
 <!-- ========================================================= -->
