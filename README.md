@@ -106,17 +106,12 @@
 
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=90&section=header&text=About%20Me&fontSize=26&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="100%"
+    width="40%"
     alt="About Me section header"
     style="margin:0; padding:0;"
   />
 
 </div>
-
-<!-- ========================================================= -->
-<!--                        PART 3: ABOUT                      -->
-<!-- ========================================================= -->
-## About Me
 
 <table>
 <tr>
