@@ -108,7 +108,7 @@
   <tr>
     <td width="70%">
       
-<pre><code class="language-python">
+<pre><code class="python">
 class EmamulIslamNadid:
     role = "Full Stack Developer"
     education = "BSc in Computer Science &amp; Engineering"
