@@ -102,16 +102,30 @@
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
 
+<div align="center" style="margin:0; padding:0;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=90&section=header&text=About%20Me&fontSize=26&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="100%"
+    alt="About Me section header"
+    style="margin:0; padding:0;"
+  />
+
+</div>
+
+<!-- ========================================================= -->
+<!--                        PART 3: ABOUT                      -->
+<!-- ========================================================= -->
 ## About Me
 
 <table>
-  <tr>
-    <td width="70%">
-      
-<pre><code class="python">
+<tr>
+<td width="60%">
+
+```python
 class EmamulIslamNadid:
     role = "Full Stack Developer"
-    education = "BSc in Computer Science &amp; Engineering"
+    education = "BSc in Computer Science & Engineering"
     university = "Port City International University"
     expected_graduation = "2026"
     location = "Bangladesh"
@@ -119,9 +133,9 @@ class EmamulIslamNadid:
 
     interests = [
         "Web Application Development",
-        "System Design &amp; Architecture",
+        "System Design & Architecture",
         "Problem Solving",
-        "UI/UX &amp; Visual Design",
+        "UI/UX & Visual Design",
     ]
 
     current_focus = [
@@ -129,23 +143,16 @@ class EmamulIslamNadid:
         "Writing clean, maintainable code",
         "Contributing to open-source projects",
     ]
-</code></pre>
-   </td>
-    <td width="30%" align="center">
-      <img
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"
-        width="300"
-        alt="Developer working on computer"
-      />
-    </td>
-  </tr>
-</table>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
-  width="100%"
-  alt="section divider"
-/>
+```
+</td> <td width="40%" align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Developer working on computer" />
+
+</td> </tr> </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+
 <!-- ========================================================= -->
 <!--                 PART 4: CONNECT WITH ME                   -->
 <!-- ========================================================= -->
@@ -315,3 +322,9 @@ class EmamulIslamNadid:
   width="100%"
   alt="section divider"
 />
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+
