@@ -51,10 +51,7 @@
 
 ## About Me
 
-I am a Computer Science & Engineering student with a strong interest in  
-**full stack web development** and **problem solving**.  
-I enjoy building practical applications, writing clean code,  
-and continuously improving my skills as a developer.
+I am a Computer Science & Engineering student with a strong interest in **full stack web development** and **problem solving**.  I enjoy building practical applications, writing clean code, and continuously improving my skills as a developer.
 
 ```python
 class EmamulIslamNadid:
