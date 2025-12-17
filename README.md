@@ -103,10 +103,8 @@
   />
 
   <!-- 7. Arrow Section Divider -->
-  <img
-    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/arrow.png"
-    width="100%"
-    alt="Arrow divider"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=3&section=footer" width="100%" />
+
 
 </div>
+
