@@ -1,40 +1,5 @@
 <!-- ========================================================= -->
-<!--                     ABOUT ME TITLE                       -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-  <!-- TOP WAVE -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=35&section=header"
-    width="60%"
-    alt="top wave"
-  />
-
-  <!-- CENTER TEXT -->
-  <div
-    style="
-      color:#c9d1d9;
-      font-size:22px;
-      font-weight:600;
-      margin:6px 0;
-    "
-  >
-    About Me
-  </div>
-
-  <!-- BOTTOM WAVE -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=35&section=footer"
-    width="60%"
-    alt="bottom wave"
-  />
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                     CLEAN HEADER                         -->
+<!--                            HEADER                         -->
 <!-- ========================================================= -->
 
 <div align="center" style="margin:0; padding:0;">
