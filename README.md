@@ -152,14 +152,12 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 
 <div align="center" style="margin:0; padding:0;">
-
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=90&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="70%"
-    alt="Connect With Me section header"
-    style="margin:0; padding:0;"
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Connect%20With%20Me&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="40%"
   />
 </div>
+
 
 <div align="center">
 
@@ -254,16 +252,11 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <!--                 PART 5: TECH STACK & TOOLS                -->
 <!-- ========================================================= -->
-
 <div align="center" style="margin:0; padding:0;">
-
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=90&section=header&text=Tech%20Stack%20and%20Tools&fontSize=30&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="70%"
-    alt="Tech Stack & Tools section header"
-    style="margin:0; padding:0;"
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Tech%20Stack%20and%20Tools&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="40%"
   />
-
 </div>
 
 <div align="center">
