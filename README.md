@@ -127,7 +127,7 @@ class EmamulIslamNadid:
 />
 
 <h2 align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2k1MWI5MGVoaGR4ZmMzM2IxZHlsczlrNzdzZzB0NXVxMnF4OWU5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif)" width="28" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2k1MWI5MGVoaGR4ZmMzM2IxZHlsczlrNzdzZzB0NXVxMnF4OWU5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" width="28" alt="Coding gif"/>
   Coding Profiles
 </h2>
 
