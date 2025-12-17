@@ -413,18 +413,27 @@ class EmamulIslamNadid:
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
-
 <!-- ========================================================= -->
 <!--                         PART 9: FOOTER                    -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-  <!-- OUTRO TYPING -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%E2%9C%A8+Thanks+for+visiting!+Let's+connect+and+create+something+amazing!;%F0%9F%92%BB+Happy+Coding!+%7C+%C2%A9+2025+Emamul+Islam+Nadid"
-    alt="Footer typing outro"
-  />
+  <!-- OUTRO TYPING (INSIDE GRAY BOX) -->
+  <div
+    style="
+      background-color:#161b22;
+      border:1px solid #30363d;
+      border-radius:12px;
+      padding:12px 24px;
+      display:inline-block;
+    "
+  >
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%E2%9C%A8+Thanks+for+visiting!+Let's+connect+and+create+something+amazing!;%F0%9F%92%BB+Happy+Coding!+%7C+%C2%A9+2025+Emamul+Islam+Nadid"
+      alt="Footer typing outro"
+    />
+  </div>
 
 </div>
 
