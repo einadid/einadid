@@ -11,9 +11,6 @@
     style="margin:0; padding:0;"
   />
 
-</div>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
-
 <!-- ========================================================= -->
 <!--              PART 2: ROLE & INFO BADGES                  -->
 <!-- ========================================================= -->
