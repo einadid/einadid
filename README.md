@@ -1,3 +1,22 @@
+
+<h2 align="center">🏅 GitHub Trophies</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=einadid&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+
+<h2 align="center">🎯 Beyond Code</h2>
+
+<p align="center">
+  I enjoy <b>designing clean interfaces</b>, exploring <b>new web technologies</b>,<br/>
+  and solving <b>algorithmic problems</b> in my free time.  
+</p>
+
 <!-- ========================================================= -->
 <!--                            HEADER                         -->
 <!-- ========================================================= -->
