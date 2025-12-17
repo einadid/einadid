@@ -393,9 +393,7 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <!--               PART 8: CONTRIBUTION SNAKE                  -->
 <!-- ========================================================= -->
-
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="26" alt="Snake icon"> Contribution Snake
-## <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="26" alt="Snake animation"> Contribution Snake
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNmdWFpNTc5MzRwM3o0dmRldWY4d2YwMTBlc3h5cTMzY2d6Mmd1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6W7labESIQ4P3IECui/giphy.gif" width="26" alt="Snake animation"> Contribution Snake
 
 <div align="center">
   <picture>
