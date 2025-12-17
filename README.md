@@ -33,7 +33,7 @@
       Computer Science &amp; Engineering Student
     </div>
     <div style="
-      padding:6px 16px;
+      padding:6px 6px;
       border:1px solid #30363d;
       border-radius:999px;
       background:linear-gradient(135deg,#23863622,#58a6ff22);
