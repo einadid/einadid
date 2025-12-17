@@ -417,28 +417,13 @@ class EmamulIslamNadid:
 <!--                         PART 9: FOOTER                    -->
 <!-- ========================================================= -->
 
-<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20create%20something%20amazing.&fontSize=16&fontColor=8b949e&fontAlignY=65"
+  width="100%"
+  alt="Footer"
+/>
 
-  <!-- OUTRO TYPING (INSIDE GRAY BOX) -->
-  <div
-    style="
-      background-color:#161b22;
-      border:1px solid #30363d;
-      border-radius:12px;
-      padding:12px 24px;
-      display:inline-block;
-    "
-  >
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%E2%9C%A8+Thanks+for+visiting!+Let's+connect+and+create+something+amazing!;%F0%9F%92%BB+Happy+Coding!+%7C+%C2%A9+2025+Emamul+Islam+Nadid"
-      alt="Footer typing outro"
-    />
-  </div>
-
+<div align="center" style="margin-top:-28px; color:#8b949e; font-size:12px;">
+  © 2025 Emamul Islam Nadid · Happy Coding 💻
 </div>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"
-  width="100%"
-  alt="Footer wave"
-/>
