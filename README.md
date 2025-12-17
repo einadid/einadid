@@ -152,7 +152,16 @@ class EmamulIslamNadid:
 <!--                 PART 4: CONNECT WITH ME                   -->
 <!-- ========================================================= -->
 
-## Connect With Me
+<div align="center" style="margin:0; padding:0;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=90&section=header&text=Connect%20With%20Me&fontSize=30&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="40%"
+    alt="Connect With Me section header"
+    style="margin:0; padding:0;"
+  />
+
+</div>
 
 <div align="center">
 
@@ -248,7 +257,16 @@ class EmamulIslamNadid:
 <!--                 PART 5: TECH STACK & TOOLS                -->
 <!-- ========================================================= -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" alt="Keyboard typing"> Tech Stack &amp; Tools
+<div align="center" style="margin:0; padding:0;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=90&section=header&text=Tech%20Stack%20%26%20Tools&fontSize=30&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="40%"
+    alt="Tech Stack & Tools section header"
+    style="margin:0; padding:0;"
+  />
+
+</div>
 
 <div align="center">
 
