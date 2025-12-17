@@ -49,7 +49,7 @@
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
 
-## 👋 About Me
+## About Me
 
 ```python
 class EmamulIslamNadid:
@@ -84,5 +84,55 @@ class EmamulIslamNadid:
 
 me = EmamulIslamNadid()
 print(me.say_hi())
+```
+<!-- ========================================================= -->
+<!--                 PART 4: CONNECT WITH ME                   -->
+<!-- ========================================================= -->
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" alt="Handshake"> Connect With Me
+
+<div align="center">
+
+  <!-- PRIMARY LINKS -->
+  <a href="https://einadid.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:emamulnadid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/einadid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/einadid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/einadid" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- SECONDARY LINKS -->
+  <a href="https://facebook.com/einadid" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/ein.nadid" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@einadid" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://discord.com/users/emamulnadid" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+</div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated divider"
+/>
 
