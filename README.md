@@ -49,9 +49,15 @@
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
 
+<!-- ========================================================= -->
+<!--                        PART 3: ABOUT                      -->
+<!-- ========================================================= -->
+
 ## About Me
 
-I am a Computer Science & Engineering student with a strong interest in **full stack web development** and **problem solving**.  I enjoy building practical applications, writing clean code, and continuously improving my skills as a developer.
+<table>
+<tr>
+<td width="60%">
 
 ```python
 class EmamulIslamNadid:
@@ -72,9 +78,13 @@ class EmamulIslamNadid:
         "Writing clean, maintainable code",
         "Contributing to open-source projects",
     ]
-
-
 ```
+</td> <td width="40%" align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Developer working on computer" />
+
+</td> </tr> </table>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
 <!-- ========================================================= -->
