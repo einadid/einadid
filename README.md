@@ -102,6 +102,15 @@
 <!-- ========================================================= -->
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
+<div align="center" style="margin:0; padding:0;">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=600&section=header&text=About%20Me&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="100%"
+    alt="about me"
+    style="margin:-10px; padding:0;"
+  />
+</div>
 ## About Me
 
 <table>
@@ -299,13 +308,6 @@ class EmamulIslamNadid:
   </table>
 
   <br/>
-
-  <!-- EXTRA: ALL TECH AT A GLANCE (smaller strip) -->
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,react,nextjs,nodejs,express,mongodb,postgres,git,github,windows,aws,figma,vscode&theme=dark&perline=10"
-    alt="All tech stack icons"
-    height="26"
-  />
 
 </div>
 
