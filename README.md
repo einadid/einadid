@@ -149,6 +149,43 @@ class EmamulIslamNadid:
   width="100%"
   alt="wave divider"
 />
+
+<h2 align="center">🧠 Coding Profiles</h2>
+
+<div align="center">
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Profile-30363d?style=for-the-badge&logo=leetcode&logoColor=f89f1b"
+      alt="LeetCode Profile"
+    />
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Codeforces-Profile-30363d?style=for-the-badge&logo=codeforces&logoColor=c9d1d9"
+      alt="Codeforces Profile"
+    />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/HackerRank-Profile-30363d?style=for-the-badge&logo=hackerrank&logoColor=00EA64"
+      alt="HackerRank Profile"
+    />
+  </a>
+
+</div>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
+  width="100%"
+  alt="wave divider"
+/>
+
 <!-- ========================================================= -->
 <!--                 PART 4: CONNECT WITH ME                   -->
 <!-- ========================================================= -->
