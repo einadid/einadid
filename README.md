@@ -21,8 +21,31 @@
     src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-30363d?style=for-the-badge&logo=code&logoColor=c9d1d9"
   />
   <img
+  src="https://img.shields.io/badge/Stack-MERN-30363d?style=for-the-badge&logo=mongodb&logoColor=c9d1d9"
+/>
+<img
+  src="https://img.shields.io/badge/Focus-Frontend%20%7C%20UI%2FUX-30363d?style=for-the-badge&logo=react&logoColor=c9d1d9"
+/>
+<img
+  src="https://img.shields.io/badge/Status-Available%20for%20Freelance-30363d?style=for-the-badge&logo=fiverr&logoColor=c9d1d9"
+/>
+<img
+  src="https://img.shields.io/badge/Currently_Learning-Next.js-30363d?style=for-the-badge&logo=nextdotjs&logoColor=c9d1d9"
+/>
+  <img
     src="https://img.shields.io/badge/Skill-Problem%20Solver-30363d?style=for-the-badge&logo=leetcode&logoColor=c9d1d9"
   />
+  <a href="https://leetcode.com/einadid" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LeetCode-Profile-30363d?style=for-the-badge&logo=leetcode&logoColor=f89f1b"
+  />
+</a>
+  <img
+  src="https://img.shields.io/badge/LeetCode-Profile-30363d?style=for-the-badge&logo=leetcode&logoColor=f89f1b"
+/>
+<img
+  src="https://img.shields.io/badge/Codeforces-Profile-30363d?style=for-the-badge&logo=codeforces&logoColor=c9d1d9"
+/>
   <img
     src="https://img.shields.io/badge/Creative-Designer-30363d?style=for-the-badge&logo=figma&logoColor=c9d1d9"
   />
@@ -41,6 +64,7 @@
 <img
   src="https://img.shields.io/github/followers/einadid?style=for-the-badge&color=30363d&logo=github&logoColor=c9d1d9"
 />
+
 
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
