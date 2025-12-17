@@ -181,8 +181,10 @@ class EmamulIslamNadid:
   </a>
 
   <br/><br/>
+
+  <!--            
   
-   <!-- FREELANCE / HIRE ME (optional) -->
+   <!-- FREELANCE / HIRE ME (optional) 
   <a href="https://www.fiverr.com/einadid" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat-square&logo=fiverr&logoColor=white"
@@ -196,7 +198,8 @@ class EmamulIslamNadid:
     />
   </a>
 
-  <br/><br/>
+  <br/><br/>      
+  -->
 
 
   <!-- SECONDARY LINKS -->
