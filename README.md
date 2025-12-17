@@ -103,13 +103,13 @@
 <!-- ========================================================= -->
 
 <div align="center" style="margin:0; padding:0;">
-
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=About%20Me&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    alt="About Me section header"
-    style="margin:0; padding:0px -60px;"
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Tech%20Stack%20and%20Tools&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="35%"
+    alt="Tech Stack and Tools"
   />
 </div>
+
 
 <table>
 <tr>
