@@ -51,9 +51,13 @@
 
 ## About Me
 
+I am a Computer Science & Engineering student with a strong interest in  
+**full stack web development** and **problem solving**.  
+I enjoy building practical applications, writing clean code,  
+and continuously improving my skills as a developer.
+
 ```python
 class EmamulIslamNadid:
-    name = "Emamul Islam Nadid"
     role = "Full Stack Developer"
     education = "BSc in Computer Science & Engineering"
     location = "Bangladesh"
@@ -66,14 +70,12 @@ class EmamulIslamNadid:
         "UI/UX & Visual Design",
     ]
 
-    focus = [
+    current_focus = [
         "Building scalable applications",
         "Writing clean, maintainable code",
         "Contributing to open-source projects",
     ]
 
-
-print("Thanks for visiting my GitHub!")
 
 ```
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
