@@ -45,30 +45,6 @@
     alt="Skill: Problem Solver"
   />
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/einadid" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/LeetCode-Profile-30363d?style=for-the-badge&logo=leetcode&logoColor=f89f1b"
-      alt="LeetCode Profile"
-    />
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/einadid" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/Codeforces-Profile-30363d?style=for-the-badge&logo=codeforces&logoColor=c9d1d9"
-      alt="Codeforces Profile"
-    />
-  </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/einadid" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/HackerRank-Profile-30363d?style=for-the-badge&logo=hackerrank&logoColor=00EA64"
-      alt="HackerRank Profile"
-    />
-  </a>
-
   <img
     src="https://img.shields.io/badge/Creative-Designer-30363d?style=for-the-badge&logo=figma&logoColor=c9d1d9"
     alt="Creative Designer"
@@ -151,17 +127,7 @@ class EmamulIslamNadid:
 />
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28" alt="Coding gif"/>
-  Coding Profiles
-</h2>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28" alt="Terminal gif"/>
-  Coding Profiles
-</h2>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="26" alt="Coding brain gif"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2k1MWI5MGVoaGR4ZmMzM2IxZHlsczlrNzdzZzB0NXVxMnF4OWU5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif)" width="28" alt="Coding gif"/>
   Coding Profiles
 </h2>
 
