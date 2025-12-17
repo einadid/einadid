@@ -150,7 +150,21 @@ class EmamulIslamNadid:
   alt="wave divider"
 />
 
-<h2 align="center">🧠 Coding Profiles</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28" alt="Coding gif"/>
+  Coding Profiles
+</h2>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28" alt="Terminal gif"/>
+  Coding Profiles
+</h2>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="26" alt="Coding brain gif"/>
+  Coding Profiles
+</h2>
+
 
 <div align="center">
 
