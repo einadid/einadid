@@ -109,7 +109,14 @@
     alt="About Me section header"
     style="margin:0; padding:0;"
   />
+</div>
+<div align="center" style="margin:0; padding:0;">
 
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=About%20Me&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    alt="About Me section header"
+    style="margin:0; padding:0px -20px;"
+  />
 </div>
 
 <table>
