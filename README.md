@@ -155,3 +155,201 @@ class EmamulIslamNadid:
 <br/>
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
+<!-- ========================================================= -->
+<!--                 PART 5: TECH STACK & TOOLS                -->
+<!-- ========================================================= -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26" alt="Keyboard typing"> Tech Stack &amp; Tools
+
+<div align="center">
+
+  <!-- LANGUAGES -->
+  <h3>💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java&theme=dark&perline=6" alt="Programming languages icons" />
+
+  <!-- FRONTEND / UI -->
+  <h3>🎨 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark&perline=6" alt="Frontend technologies icons" />
+
+  <!-- BACKEND / API -->
+  <h3>🛠 Backend &amp; APIs</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=6" alt="Backend technologies icons" />
+
+  <!-- DATABASES -->
+  <h3>🗄 Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark&perline=6" alt="Database technologies icons" />
+
+  <!-- TOOLS / DEVOPS -->
+  <h3>⚙️ Tools &amp; DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,aws,vscode,figma&theme=dark&perline=8" alt="Tools and DevOps icons" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- EXTRA: FULL ICON STRIP -->
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux,windows,aws,figma,vscode&theme=dark&perline=12"
+    alt="All tech stack icons"
+  />
+</div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated divider"
+/>
+<!-- ========================================================= -->
+<!--                  PART 6: FEATURED PROJECTS                -->
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <!-- PROJECT 1: Portfolio -->
+  <a href="https://github.com/einadid/portfolio" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=portfolio&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="Portfolio Website"
+    />
+  </a>
+
+  <!-- PROJECT 2: Ticketbari Client -->
+  <a href="https://github.com/einadid/ticketbari-project-client" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=ticketbari-project-client&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="Ticketbari Client"
+    />
+  </a>
+
+  <!-- PROJECT 3: HomeHero Server v2 -->
+  <a href="https://github.com/einadid/homehero-server-v2" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=homehero-server-v2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="HomeHero Server v2"
+    />
+  </a>
+
+  <!-- PROJECT 4: QuickMed -->
+  <a href="https://github.com/einadid/quickmed" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=quickmed&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="QuickMed"
+    />
+  </a>
+
+</div>
+
+<br/>
+<!-- ========================================================= -->
+<!--                 PART 7: GITHUB ANALYTICS                  -->
+<!-- ========================================================= -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" alt="Graph icon"> GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <!-- STATS CARD -->
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=einadid&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"
+          alt="GitHub Stats"
+        />
+        <br/><br/>
+        <!-- STREAK CARD -->
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=einadid&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
+          alt="GitHub Streak"
+        />
+      </td>
+      <td width="50%" align="center">
+        <!-- TOP LANGUAGES CARD -->
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=einadid&layout=donut-vertical&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- CONTRIBUTION GRAPH -->
+  <h3>📈 Contribution Graph</h3>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=einadid&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    width="100%"
+    alt="Contribution activity graph"
+  />
+</div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated divider"
+/>
+<!-- ========================================================= -->
+<!--               PART 8: CONTRIBUTION SNAKE                  -->
+<!-- ========================================================= -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/einadid/einadid/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/einadid/einadid/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/einadid/einadid/output/github-contribution-grid-snake-dark.svg"
+      width="100%"
+    />
+  </picture>
+</div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated divider"
+/>
+<!-- ========================================================= -->
+<!--                         PART 9: FOOTER                    -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <!-- PROFILE VIEWS -->
+  <img
+    src="https://komarev.com/ghpvc/?username=einadid&label=Profile%20Views&color=58a6ff&style=for-the-badge"
+    alt="Profile Views Counter"
+  />
+
+  <br/><br/>
+
+  <!-- OUTRO TYPING -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%E2%9C%A8+Thanks+for+visiting!+Let's+connect+and+create+something+amazing!;%F0%9F%92%BB+Happy+Coding!+%7C+%C2%A9+2025+Emamul+Islam+Nadid"
+    alt="Footer typing outro"
+  />
+
+</div>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"
+  width="100%"
+  alt="Footer wave"
+/>
