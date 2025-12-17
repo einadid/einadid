@@ -38,43 +38,50 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
 </div>
+
 <!-- ========================================================= -->
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
 
 ## About Me
 
-```python
-class EmamulIslamNadid:
-    def __init__(self):
-        self.name = "Emamul Islam Nadid"
-        self.role = "Full Stack Developer"
-        self.education = "BSc in Computer Science & Engineering"
-        self.location = "Bangladesh"
-        self.languages = ["Bengali", "English"]
+> **Full Stack Developer | CSE Student | Problem Solver**
 
-        self.interests = [
-            "Full Stack Web Development",
-            "System Design & Architecture",
-            "Problem Solving",
-            "UI/UX & Visual Design",
-        ]
+I am a Computer Science & Engineering student with a strong interest in  
+**full stack web development** and **software design**.  
+I enjoy building scalable applications, solving real-world problems,  
+and continuously improving my technical and creative skills.
 
-    def current_focus(self):
-        return [
-            "Building scalable full stack applications",
-            "Writing clean, maintainable code",
-            "Learning modern tools & frameworks",
-            "Contributing to open-source projects",
-        ]
+---
 
-    def introduction(self):
-        return (
-            "I enjoy turning ideas into practical software solutions "
-            "and continuously improving my skills as a developer."
-        )
+### 👤 Quick Overview
 
+- 🎓 **Education:** BSc in Computer Science & Engineering  
+- 💻 **Role:** Full Stack Developer  
+- 🌍 **Location:** Bangladesh  
+- 🗣 **Languages:** Bengali, English  
 
-me = EmamulIslamNadid()
-print(me.introduction())
+---
+
+### 🔧 Areas of Interest
+
+- Full Stack Web Application Development  
+- System Design & Software Architecture  
+- Problem Solving & Algorithmic Thinking  
+- UI/UX & Visual Design  
+
+---
+
+### 🎯 Current Focus
+
+- Building real-world, scalable applications  
+- Writing clean, maintainable, and efficient code  
+- Learning modern tools, frameworks, and best practices  
+- Exploring open-source contributions  
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
+  width="100%"
+  alt="Section divider"
+/>
 
