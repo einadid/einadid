@@ -35,53 +35,54 @@
   <img
     src="https://img.shields.io/badge/OS-Windows-30363d?style=for-the-badge&logo=windows&logoColor=c9d1d9"
   />
+  <img
+  src="https://komarev.com/ghpvc/?username=einadid&style=for-the-badge&color=30363d"
+/>
+<img
+  src="https://img.shields.io/github/followers/einadid?style=for-the-badge&color=30363d&logo=github&logoColor=c9d1d9"
+/>
+
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
 </div>
-
 <!-- ========================================================= -->
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
 
-## About Me
+## 👋 About Me
 
-> **Full Stack Developer | CSE Student | Problem Solver**
+```python
+class EmamulIslamNadid:
+    def __init__(self):
+        self.name = "Emamul Islam Nadid"
+        self.role = "Full Stack Developer"
+        self.education = "BSc in Computer Science & Engineering"
+        self.location = "Bangladesh"
+        self.languages = ["Bengali", "English"]
 
-I am a Computer Science & Engineering student with a strong interest in  
-**full stack web development** and **software design**.  
-I enjoy building scalable applications, solving real-world problems,  
-and continuously improving my technical and creative skills.
+        self.interests = [
+            "Web Application Development",
+            "System Design & Architecture",
+            "Problem Solving",
+            "UI/UX & Visual Design",
+        ]
 
----
+    def current_focus(self):
+        return [
+            "Building scalable full stack applications",
+            "Writing clean, maintainable code",
+            "Learning modern tools & frameworks",
+            "Contributing to open-source projects",
+        ]
 
-### 👤 Quick Overview
+    def say_hi(self):
+        return (
+            "Thanks for visiting my GitHub! "
+            "Let's build something amazing together."
+        )
 
-- 🎓 **Education:** BSc in Computer Science & Engineering  
-- 💻 **Role:** Full Stack Developer  
-- 🌍 **Location:** Bangladesh  
-- 🗣 **Languages:** Bengali, English  
 
----
+me = EmamulIslamNadid()
+print(me.say_hi())
 
-### 🔧 Areas of Interest
-
-- Full Stack Web Application Development  
-- System Design & Software Architecture  
-- Problem Solving & Algorithmic Thinking  
-- UI/UX & Visual Design  
-
----
-
-### 🎯 Current Focus
-
-- Building real-world, scalable applications  
-- Writing clean, maintainable, and efficient code  
-- Learning modern tools, frameworks, and best practices  
-- Exploring open-source contributions  
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
-  width="100%"
-  alt="Section divider"
-/>
 
