@@ -84,11 +84,12 @@ class EmamulIslamNadid:
 </td> </tr> </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+
 <!-- ========================================================= -->
 <!--                 PART 4: CONNECT WITH ME                   -->
 <!-- ========================================================= -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" alt="Handshake"> Connect With Me
+## Connect With Me
 
 <div align="center">
 
