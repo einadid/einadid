@@ -413,8 +413,6 @@ class EmamulIslamNadid:
   </picture>
 </div>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
 <!-- ========================================================= -->
