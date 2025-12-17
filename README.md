@@ -30,10 +30,10 @@
     src="https://img.shields.io/badge/Focus-Frontend%20%7C%20UI%2FUX-30363d?style=for-the-badge&logo=react&logoColor=c9d1d9"
     alt="Focus: Frontend | UI/UX"
   />
-  <img
+<!--   <img
     src="https://img.shields.io/badge/Status-Available%20for%20Freelance-30363d?style=for-the-badge&logo=fiverr&logoColor=c9d1d9"
     alt="Status: Available for Freelance"
-  />
+  /> -->
   <img
     src="https://img.shields.io/badge/Currently_Learning-Next.js-30363d?style=for-the-badge&logo=nextdotjs&logoColor=c9d1d9"
     alt="Currently Learning: Next.js"
@@ -181,6 +181,23 @@ class EmamulIslamNadid:
   </a>
 
   <br/><br/>
+  
+   <!-- FREELANCE / HIRE ME (optional) -->
+  <a href="https://www.fiverr.com/einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat-square&logo=fiverr&logoColor=white"
+      alt="Fiverr"
+    />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=flat-square&logo=upwork&logoColor=white"
+      alt="Upwork"
+    />
+  </a>
+
+  <br/><br/>
+
 
   <!-- SECONDARY LINKS -->
   <a href="https://facebook.com/einadid" target="_blank">
