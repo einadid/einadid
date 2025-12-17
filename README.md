@@ -78,12 +78,11 @@ class EmamulIslamNadid:
 
 ```
 </td> <td width="40%" align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Developer working on computer" />
-
+[<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Developer working on computer" />
+](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0d3VvMWdyZmppMjJlangzbjBkazk5ajN2ejlsNGtkZzlwemgwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUSqQub8zV9dJyxtDN/giphy.gif)
 </td> </tr> </table>
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
 <!-- ========================================================= -->
 <!--                 PART 4: CONNECT WITH ME                   -->
