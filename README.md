@@ -367,4 +367,54 @@ class EmamulIslamNadid:
 
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+<!-- ========================================================= -->
+<!--                 PART 7: GITHUB ANALYTICS                  -->
+<!-- ========================================================= -->
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" alt="Graph icon"> GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <!-- STATS CARD -->
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=einadid&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"
+          alt="GitHub Stats"
+        />
+        <br/><br/>
+        <!-- STREAK CARD -->
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=einadid&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
+          alt="GitHub Streak"
+        />
+      </td>
+      <td width="50%" align="center">
+        <!-- TOP LANGUAGES CARD -->
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=einadid&layout=donut-vertical&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- CONTRIBUTION GRAPH -->
+  <h3>📈 Contribution Graph</h3>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=einadid&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    width="100%"
+    alt="Contribution activity graph"
+  />
+</div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated divider"
+/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
