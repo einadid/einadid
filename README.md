@@ -253,6 +253,7 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <!--                 PART 5: TECH STACK & TOOLS                -->
 <!-- ========================================================= -->
+
 <div align="center" style="margin:0; padding:0;">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Tech%20Stack%20and%20Tools&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
@@ -261,88 +262,75 @@ class EmamulIslamNadid:
   />
 </div>
 
+<br/>
 
 <div align="center">
 
-  <table>
-    <tr>
-      <!-- LANGUAGES -->
-      <td align="center" width="50%">
-        <h3>💻 Programming Languages</h3>
-        <img
-          src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java&theme=dark&perline=6"
-          alt="Programming languages icons"
-          height="32"
-        />
-      </td>
-      <!-- FRONTEND -->
-      <td align="center" width="50%">
-        <h3>🎨 Frontend</h3>
-        <img
-          src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark&perline=4"
-          alt="Frontend technologies icons"
-          height="32"
-        />
-      </td>
-    </tr>
-    <tr>
-      <!-- BACKEND -->
-      <td align="center" width="50%">
-        <h3>🛠 Backend &amp; APIs</h3>
-        <img
-          src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4"
-          alt="Backend technologies icons"
-          height="32"
-        />
-      </td>
-      <!-- DATABASES -->
-      <td align="center" width="50%">
-        <h3>🗄 Databases</h3>
-        <img
-          src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3"
-          alt="Database technologies icons"
-          height="32"
-        />
-      </td>
-    </tr>
-    <tr>
-      <!-- TOOLS / DEVOPS -->
-      <td align="center" colspan="2">
-        <h3>⚙️ Tools &amp; DevOps</h3>
-        <img
-          src="https://skillicons.dev/icons?i=git,github,windows,aws,vscode,figma&theme=dark&perline=6"
-          alt="Tools and DevOps icons"
-          height="32"
-        />
-      </td>
-    </tr>
-  </table>
-  <br/>
+<table>
+  <tr>
+    <!-- LANGUAGES -->
+    <td align="center" width="50%">
+      <h3>💻 Programming Languages</h3>
+      <img
+        src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java&theme=dark&perline=6"
+        alt="Programming languages icons"
+        height="32"
+      />
+    </td>
+    <!-- FRONTEND -->
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <img
+        src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark&perline=4"
+        alt="Frontend technologies icons"
+        height="32"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <!-- BACKEND -->
+    <td align="center" width="50%">
+      <h3>🛠 Backend &amp; APIs</h3>
+      <img
+        src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4"
+        alt="Backend technologies icons"
+        height="32"
+      />
+    </td>
+    <!-- DATABASES -->
+    <td align="center" width="50%">
+      <h3>🗄 Databases</h3>
+      <img
+        src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3"
+        alt="Database technologies icons"
+        height="32"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <!-- TOOLS / DEVOPS -->
+    <td align="center" colspan="2">
+      <h3>⚙️ Tools &amp; DevOps</h3>
+      <img
+        src="https://skillicons.dev/icons?i=git,github,windows,aws,vscode,figma&theme=dark&perline=6"
+        alt="Tools and DevOps icons"
+        height="32"
+      />
+    </td>
+  </tr>
+</table>
+
 </div>
+
+<br/>
+
 <img
   src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
   width="100%"
   alt="section divider"
 />
-
-
-
-
-<div align="center" style="margin:0; padding:0;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Tech%20Stack%20and%20Tools&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="30%"
-    alt="Tech Stack and Tools"
-  />
-</div>
-
-<div align="center" style="margin:0; padding:0;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Tech%20Stack%20and%20Tools&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="35%"
-    alt="Tech Stack and Tools"
-  />
-</div>
 
 
 
