@@ -42,3 +42,37 @@
   width="100%"
   alt="Animated divider"
 />
+<!-- ========================================================= -->
+<!--            PART 2: INTRO IMAGE + ROLE BADGES             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <!-- ROLE IMAGE -->
+  <img
+    src="https://i.imgur.com/YOUR_IMAGE_ID.png"
+    width="520"
+    alt="CSE Student | Full Stack Developer | Problem Solver | Designer"
+  />
+
+  <br/><br/>
+
+  <!-- ROLE BADGES -->
+  <img
+    src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-30363d?style=for-the-badge&logo=code&logoColor=e6edf3"
+  />
+  <img
+    src="https://img.shields.io/badge/Skill-Problem%20Solver-30363d?style=for-the-badge&logo=leetcode&logoColor=e6edf3"
+  />
+  <img
+    src="https://img.shields.io/badge/Creative-Designer-30363d?style=for-the-badge&logo=figma&logoColor=e6edf3"
+  />
+
+</div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+/>
