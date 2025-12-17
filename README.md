@@ -94,11 +94,12 @@
     alt="GitHub followers"
   />
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
-    width="100%"
-    alt="section divider"
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
+  width="100%"
+  alt="wave divider"
+/>
+
 </div>
 
 
