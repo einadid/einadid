@@ -106,7 +106,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="70%">
 
 ```python
 class EmamulIslamNadid:
@@ -131,7 +131,7 @@ class EmamulIslamNadid:
     ]
 
 ```
-</td> <td width="50%" align="center">
+</td> <td width="30%" align="center">
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Developer working on computer" />
 
