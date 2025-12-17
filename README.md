@@ -1,50 +1,14 @@
 <!-- ========================================================= -->
-<!--               GITHUB PROFILE HEADER                       -->
+<!--                       HEADER                             -->
 <!-- ========================================================= -->
 
-<div align="center" style="margin:0; padding:0;">
-<svg
-  width="100%"
-  height="100"
-  viewBox="0 0 1200 100"
-  xmlns="http://www.w3.org/2000/svg"
-  preserveAspectRatio="none"
->
-  <!-- Solid gray background -->
-  <rect width="1200" height="100" fill="#2d333b"/>
-  <!-- Subtle grid pattern -->
-  <defs>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path
-        d="M 36 0 L 0 0 0 36"
-        fill="none"
-        stroke="#444c56"
-        stroke-width="0.5"
-      />
-    </pattern>
-  </defs>
-  <rect
-    width="1200"
-    height="100"
-    fill="url(#grid)"
-    opacity="0.35"
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=180&section=header&text=Emamul%20Islam%20Nadid&fontSize=46&fontColor=9da7b3&animation=fadeIn&fontAlignY=50"
+    width="100%"
+    alt="Header with name Emamul Islam Nadid"
   />
-  <!-- Name -->
-  <text
-    x="50%"
-    y="56%"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    fill="#f0f6fc"
-    font-size="40"
-    font-weight="600"
-    letter-spacing="1"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-  >
-    Emamul Islam Nadid
-  </text>
-  
-</svg>
 
 </div>
 
@@ -54,13 +18,6 @@
 <!-- ========================================================= -->
 
 <div align="center">
-
-  <!-- ROLE IMAGE -->
-  <img
-    src="https://i.imgur.com/YOUR_IMAGE_ID.png"
-    width="520"
-    alt="Computer Science & Engineering Student | Full Stack Developer | Problem Solver | Designer"
-  />
 
   <br/><br/>
 
