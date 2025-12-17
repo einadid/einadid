@@ -374,7 +374,7 @@ class EmamulIslamNadid:
   <br/>
 
   <!-- CONTRIBUTION GRAPH -->
-  <h3>📈 Contribution Graph</h3>
+## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="26" alt="Graph animation"> Contribution Graph
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=einadid&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity"
     width="100%"
@@ -395,6 +395,7 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 
 ## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="26" alt="Snake icon"> Contribution Snake
+## <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="26" alt="Snake animation"> Contribution Snake
 
 <div align="center">
   <picture>
