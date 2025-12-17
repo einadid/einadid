@@ -104,11 +104,12 @@
 
 <div align="center" style="margin:0; padding:0;">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Tech%20Stack%20and%20Tools&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=About%20Me&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
     width="70%"
-    alt="Tech Stack and Tools"
+    alt="About Me"
   />
 </div>
+
 
 
 <table>
@@ -153,7 +154,8 @@ class EmamulIslamNadid:
 <div align="center" style="margin:0; padding:0;">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Connect%20With%20Me&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="40%"
+    width="70%"
+    alt="Connect With Me"
   />
 </div>
 
@@ -254,9 +256,11 @@ class EmamulIslamNadid:
 <div align="center" style="margin:0; padding:0;">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Tech%20Stack%20and%20Tools&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
-    width="40%"
+    width="70%"
+    alt="Tech Stack and Tools"
   />
 </div>
+
 
 <div align="center">
 
