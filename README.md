@@ -226,26 +226,23 @@ me.say_hi()
   <a href="https://github.com/einadid/portfolio" target="_blank">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=portfolio&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-      alt="Portfolio Repo Card"
+      alt="Portfolio Website"
     />
   </a>
-  
-  <!-- EXAMPLE: ADD MORE PROJECTS HERE -->
+
+  <!-- PROJECT 2: Ticketbari Client -->
   <a href="https://github.com/einadid/ticketbari-project-client" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=your-second-project&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-      alt="Second Project"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=ticketbari-project-client&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="Ticketbari Client"
     />
   </a>
 
-</div>
-
-<br/>
-  <!-- EXAMPLE: ADD MORE PROJECTS HERE -->
+  <!-- PROJECT 3: HomeHero Server v2 -->
   <a href="https://github.com/einadid/homehero-server-v2" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=your-second-project&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-      alt="Second Project"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=homehero-server-v2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="HomeHero Server v2"
     />
   </a>
 
