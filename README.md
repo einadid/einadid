@@ -1,3 +1,14 @@
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" alt="Graph icon"> GitHub Analytics
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon"> About Me
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26" alt="Tools icon"> Tech Stack and Tools
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" alt="Handshake icon"> Connect With Me
+
+## <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="26" alt="Star icon"> Featured Projects
+
+
 <!-- ========================================================= -->
 <!--                     CLEAN HEADER                         -->
 <!-- ========================================================= -->
