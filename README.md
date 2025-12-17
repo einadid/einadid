@@ -100,43 +100,91 @@
 </div>
 </div>
 <!-- ========================================================= -->
-<!--                        PART 3: ABOUT                      -->
+<!--              PART 2: ROLE & INFO BADGES                  -->
 <!-- ========================================================= -->
-**About Me**
-<tr>
-<td width="60%">
 
-```python
-class EmamulIslamNadid:
-    role = "Full Stack Developer"
-    education = "BSc in Computer Science & Engineering"
-    university = "Port City International University"
-    expected_graduation = "2026"
-    location = "Bangladesh"
-    languages = ["Bengali", "English"]
+<div align="center" style="margin-top:1px;">
 
-    interests = [
-        "Web Application Development",
-        "System Design & Architecture",
-        "Problem Solving",
-        "UI/UX & Visual Design",
-    ]
+  <img
+    src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-30363d?style=for-the-badge&logo=code&logoColor=c9d1d9"
+    alt="Role: Full Stack Developer"
+  />
+  <img
+    src="https://img.shields.io/badge/Stack-MERN-30363d?style=for-the-badge&logo=mongodb&logoColor=c9d1d9"
+    alt="Stack: MERN"
+  />
+  <img
+    src="https://img.shields.io/badge/Focus-Frontend%20%7C%20UI%2FUX-30363d?style=for-the-badge&logo=react&logoColor=c9d1d9"
+    alt="Focus: Frontend | UI/UX"
+  />
+  <img
+    src="https://img.shields.io/badge/Status-Available%20for%20Freelance-30363d?style=for-the-badge&logo=fiverr&logoColor=c9d1d9"
+    alt="Status: Available for Freelance"
+  />
+  <img
+    src="https://img.shields.io/badge/Currently_Learning-Next.js-30363d?style=for-the-badge&logo=nextdotjs&logoColor=c9d1d9"
+    alt="Currently Learning: Next.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Skill-Problem%20Solver-30363d?style=for-the-badge&logo=leetcode&logoColor=c9d1d9"
+    alt="Skill: Problem Solver"
+  />
 
-    current_focus = [
-        "Building scalable applications",
-        "Writing clean, maintainable code",
-        "Contributing to open-source projects",
-    ]
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Profile-30363d?style=for-the-badge&logo=leetcode&logoColor=f89f1b"
+      alt="LeetCode Profile"
+    />
+  </a>
 
-```
-</td> <td width="40%" align="center">
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Codeforces-Profile-30363d?style=for-the-badge&logo=codeforces&logoColor=c9d1d9"
+      alt="Codeforces Profile"
+    />
+  </a>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Developer working on computer" />
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/einadid" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/HackerRank-Profile-30363d?style=for-the-badge&logo=hackerrank&logoColor=00EA64"
+      alt="HackerRank Profile"
+    />
+  </a>
 
-</td> </tr> </table>
+  <img
+    src="https://img.shields.io/badge/Creative-Designer-30363d?style=for-the-badge&logo=figma&logoColor=c9d1d9"
+    alt="Creative Designer"
+  />
+  <img
+    src="https://img.shields.io/badge/Location-Bangladesh-30363d?style=for-the-badge&logo=google-maps&logoColor=c9d1d9"
+    alt="Location: Bangladesh"
+  />
+  <img
+    src="https://img.shields.io/badge/Languages-English%20%7C%20Bengali-30363d?style=for-the-badge&logo=google-translate&logoColor=c9d1d9"
+    alt="Languages: English | Bengali"
+  />
+  <img
+    src="https://img.shields.io/badge/OS-Windows-30363d?style=for-the-badge&logo=windows&logoColor=c9d1d9"
+    alt="OS: Windows"
+  />
+  <img
+    src="https://komarev.com/ghpvc/?username=einadid&style=for-the-badge&color=30363d"
+    alt="Profile views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/einadid?style=for-the-badge&color=30363d&logo=github&logoColor=c9d1d9"
+    alt="GitHub followers"
+  />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
+    width="100%"
+    alt="section divider"
+  />
+</div>
 
 <!-- ========================================================= -->
 <!--                 PART 4: CONNECT WITH ME                   -->
@@ -242,37 +290,75 @@ class EmamulIslamNadid:
 
 <div align="center">
 
-  <!-- LANGUAGES -->
-  <h3>💻 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java&theme=dark&perline=6" alt="Programming languages icons" />
+  <table>
+    <tr>
+      <!-- LANGUAGES -->
+      <td align="center" width="50%">
+        <h3>💻 Programming Languages</h3>
+        <img
+          src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java&theme=dark&perline=6"
+          alt="Programming languages icons"
+          height="32"
+        />
+      </td>
+      <!-- FRONTEND -->
+      <td align="center" width="50%">
+        <h3>🎨 Frontend</h3>
+        <img
+          src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark&perline=4"
+          alt="Frontend technologies icons"
+          height="32"
+        />
+      </td>
+    </tr>
+    <tr>
+      <!-- BACKEND -->
+      <td align="center" width="50%">
+        <h3>🛠 Backend &amp; APIs</h3>
+        <img
+          src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4"
+          alt="Backend technologies icons"
+          height="32"
+        />
+      </td>
+      <!-- DATABASES -->
+      <td align="center" width="50%">
+        <h3>🗄 Databases</h3>
+        <img
+          src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3"
+          alt="Database technologies icons"
+          height="32"
+        />
+      </td>
+    </tr>
+    <tr>
+      <!-- TOOLS / DEVOPS -->
+      <td align="center" colspan="2">
+        <h3>⚙️ Tools &amp; DevOps</h3>
+        <img
+          src="https://skillicons.dev/icons?i=git,github,windows,aws,vscode,figma&theme=dark&perline=6"
+          alt="Tools and DevOps icons"
+          height="32"
+        />
+      </td>
+    </tr>
+  </table>
 
-  <!-- FRONTEND / UI -->
-  <h3>🎨 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark&perline=6" alt="Frontend technologies icons" />
+  <br/>
 
-  <!-- BACKEND / API -->
-  <h3>🛠 Backend &amp; APIs</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=6" alt="Backend technologies icons" />
-
-  <!-- DATABASES -->
-  <h3>🗄 Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=6" alt="Database technologies icons" />
-
-  <!-- TOOLS / DEVOPS -->
-  <h3>⚙️ Tools &amp; DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,windows,aws,vscode,figma&theme=dark&perline=8" alt="Tools and DevOps icons" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- EXTRA: FULL ICON STRIP -->
+  <!-- EXTRA: ALL TECH AT A GLANCE (smaller strip) -->
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,react,nextjs,nodejs,express,mongodb,postgres,git,github,linux,windows,aws,figma,vscode&theme=dark&perline=12"
+    src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,react,nextjs,nodejs,express,mongodb,postgres,git,github,windows,aws,figma,vscode&theme=dark&perline=10"
     alt="All tech stack icons"
+    height="26"
   />
+
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer"
+  width="100%"
+  alt="section divider"
+/>
