@@ -314,7 +314,56 @@ class EmamulIslamNadid:
   width="100%"
   alt="section divider"
 />
+<!-- ========================================================= -->
+<!--                 PART 6: FEATURED PROJECTS                -->
+<!-- ========================================================= -->
 
+<div align="center" style="margin:0; padding:0;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Featured%20Projects&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="70%"
+    alt="Featured Projects"
+  />
+</div>
+
+
+<div align="center">
+
+  <!-- PROJECT 1: Portfolio -->
+  <a href="https://github.com/einadid/portfolio" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=portfolio&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="Portfolio Website"
+    />
+  </a>
+
+  <!-- PROJECT 2: Ticketbari Client -->
+  <a href="https://github.com/einadid/ticketbari-project-client" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=ticketbari-project-client&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="Ticketbari Client"
+    />
+  </a>
+
+  <!-- PROJECT 3: HomeHero Server v2 -->
+  <a href="https://github.com/einadid/homehero-server-v2" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=homehero-server-v2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="HomeHero Server v2"
+    />
+  </a>
+
+  <!-- PROJECT 4: QuickMed -->
+  <a href="https://github.com/einadid/quickmed" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=quickmed&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      alt="QuickMed"
+    />
+  </a>
+
+</div>
+
+<br/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
