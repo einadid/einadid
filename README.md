@@ -12,33 +12,17 @@
     style="margin:0; padding:0;"
   />
 
-  <!-- NAME SUBTITLE TEXT -->
+  <!-- SINGLE-LINE SUBTITLE -->
   <div style="
     margin-top:-6px;
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    gap:4px;
+    font-size:13px;
+    color:#c9d1d9;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    font-weight:600;
+    text-align:center;
   ">
-    <div style="
-      font-size:13px;
-      color:#c9d1d9;
-      letter-spacing:0.12em;
-      text-transform:uppercase;
-      font-weight:600;
-    ">
-      Computer Science &amp; Engineering Student
-    </div>
-    <div style="
-      font-size:12px;
-      color:#9da7b1;
-      letter-spacing:0.1em;
-      text-transform:uppercase;
-      font-weight:500;
-    ">
-      Full Stack Developer · Problem Solver · Designer
-    </div>
-
+    Computer Science &amp; Engineering Student · Full Stack Developer · Problem Solver · Designer
   </div>
 
 </div>
