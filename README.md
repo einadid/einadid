@@ -54,3 +54,59 @@
   width="100%"
   alt="Gray divider"
 />
+<!-- ========================================================= -->
+<!--                    DIVIDER PREVIEW                       -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <!-- 1. Thin Gray Line -->
+  <img
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png"
+    width="100%"
+    alt="Thin gray divider"
+  />
+
+  <!-- 2. Dotted Gray Line -->
+  <img
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dots.png"
+    width="100%"
+    alt="Dotted gray divider"
+  />
+
+  <!-- 3. Soft Wave Gray -->
+  <img
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png"
+    width="100%"
+    alt="Wave gray divider"
+  />
+
+  <!-- 4. Animated Gray Wave -->
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="100%"
+    alt="Animated gray divider"
+  />
+
+  <!-- 5. Minimal Animated Line -->
+  <img
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated.gif"
+    width="100%"
+    alt="Minimal animated divider"
+  />
+
+  <!-- 6. Neon Style Line -->
+  <img
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png"
+    width="100%"
+    alt="Neon divider"
+  />
+
+  <!-- 7. Arrow Section Divider -->
+  <img
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/arrow.png"
+    width="100%"
+    alt="Arrow divider"
+  />
+
+</div>
