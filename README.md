@@ -370,6 +370,13 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <!--                 PART 7: GITHUB ANALYTICS                  -->
 <!-- ========================================================= -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=GitHub%20Analytics&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="70%"
+  />
+</div>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" alt="Graph icon"> GitHub Analytics
 
