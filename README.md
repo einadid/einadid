@@ -1,11 +1,3 @@
-<div align="center">
-
-  <!-- PROFILE IMAGE -->
-  <img
-    src="[https://avatars.githubusercontent.com/u/einadid](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc9APxkj0xClmrU3PpMZglHQkx446nQPG6lA&s)"
-    width="140"
-    style="border-radius:50%; margin-top:-60px; border:2px solid #30363d;"
-    alt="Profile image"
-  />
-
-</div>
+<p align="center">
+  <img src="(https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2V8ZW58MHx8MHx8fDA%3D)" width="300" alt="My Image" />
+</p>
