@@ -3,7 +3,6 @@
 <!-- ========================================================= -->
 
 <div align="center" style="margin:0; padding:0;">
-
 <svg
   width="100%"
   height="100"
@@ -11,10 +10,8 @@
   xmlns="http://www.w3.org/2000/svg"
   preserveAspectRatio="none"
 >
-
   <!-- Solid gray background -->
   <rect width="1200" height="100" fill="#2d333b"/>
-
   <!-- Subtle grid pattern -->
   <defs>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
@@ -26,14 +23,12 @@
       />
     </pattern>
   </defs>
-
   <rect
     width="1200"
     height="100"
     fill="url(#grid)"
     opacity="0.35"
   />
-```
   <!-- Name -->
   <text
     x="50%"
