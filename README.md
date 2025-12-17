@@ -258,11 +258,11 @@ class EmamulIslamNadid:
 
   <!-- DATABASES -->
   <h3>🗄 Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark&perline=6" alt="Database technologies icons" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=6" alt="Database technologies icons" />
 
   <!-- TOOLS / DEVOPS -->
   <h3>⚙️ Tools &amp; DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,aws,vscode,figma&theme=dark&perline=8" alt="Tools and DevOps icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,windows,aws,vscode,figma&theme=dark&perline=8" alt="Tools and DevOps icons" />
 
 </div>
 
@@ -277,9 +277,3 @@ class EmamulIslamNadid:
 </div>
 
 <br/>
-
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Animated divider"
-/>
