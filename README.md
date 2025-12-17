@@ -1,38 +1,54 @@
 <!-- ========================================================= -->
-<!--                  HEADER WITH GRID BG                     -->
+<!--               GITHUB PROFILE HEADER                       -->
 <!-- ========================================================= -->
 
 <div align="center" style="margin:0; padding:0;">
 
-<svg width="100%" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+<svg
+  width="100%"
+  height="100"
+  viewBox="0 0 1200 100"
+  xmlns="http://www.w3.org/2000/svg"
+  preserveAspectRatio="none"
+>
 
-  <!-- Background -->
-  <rect width="1200" height="110" fill="#2d333b"/>
+  <!-- Solid gray background -->
+  <rect width="1200" height="100" fill="#2d333b"/>
 
-  <!-- Grid pattern -->
+  <!-- Subtle grid pattern -->
   <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#444c56" stroke-width="0.6"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path
+        d="M 36 0 L 0 0 0 36"
+        fill="none"
+        stroke="#444c56"
+        stroke-width="0.5"
+      />
     </pattern>
   </defs>
 
-  <rect width="1200" height="110" fill="url(#grid)" opacity="0.4"/>
-
-  <!-- Name Text -->
+  <rect
+    width="1200"
+    height="100"
+    fill="url(#grid)"
+    opacity="0.35"
+  />
+```
+  <!-- Name -->
   <text
     x="50%"
-    y="58%"
-    dominant-baseline="middle"
+    y="56%"
     text-anchor="middle"
+    dominant-baseline="middle"
     fill="#f0f6fc"
-    font-size="42"
-    font-family="Segoe UI, Inter, Arial, sans-serif"
+    font-size="40"
     font-weight="600"
     letter-spacing="1"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
   >
     Emamul Islam Nadid
   </text>
-
+  
 </svg>
 
 </div>
