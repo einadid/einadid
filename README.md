@@ -98,7 +98,6 @@
   />
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave icon"> About Me
 
 <!-- ========================================================= -->
 <!--                        PART 3: ABOUT                      -->
@@ -391,3 +390,62 @@ class EmamulIslamNadid:
   alt="Animated divider"
 />
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+<!-- ========================================================= -->
+<!--               PART 8: CONTRIBUTION SNAKE                  -->
+<!-- ========================================================= -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/einadid/einadid/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/einadid/einadid/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/einadid/einadid/output/github-contribution-grid-snake-dark.svg"
+      width="100%"
+    />
+  </picture>
+</div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated divider"
+/>
+
+<!-- ========================================================= -->
+<!--                         PART 9: FOOTER                    -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <!-- PROFILE VIEWS -->
+  <img
+    src="https://komarev.com/ghpvc/?username=einadid&label=Profile%20Views&color=58a6ff&style=for-the-badge"
+    alt="Profile Views Counter"
+  />
+
+  <br/><br/>
+
+  <!-- OUTRO TYPING -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%E2%9C%A8+Thanks+for+visiting!+Let's+connect+and+create+something+amazing!;%F0%9F%92%BB+Happy+Coding!+%7C+%C2%A9+2025+Emamul+Islam+Nadid"
+    alt="Footer typing outro"
+  />
+
+</div>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"
+  width="100%"
+  alt="Footer wave"
+/>
