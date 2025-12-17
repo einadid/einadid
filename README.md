@@ -171,7 +171,7 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" alt="Handshake icon">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN6MXJnNTR2ZDgxMzZycWR5NHBlY203a3JicDZlaWhrNzZ4cjEwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZBbai5oUPlTkGgoRyQ/giphy.gif" width="26" alt="Handshake icon">
   Connect With Me
 </h2>
 
