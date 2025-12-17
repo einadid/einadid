@@ -324,5 +324,15 @@ class EmamulIslamNadid:
 
 
 
+
+<div align="center" style="margin:0; padding:0;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=60&section=header&text=Tech%20Stack%20and%20Tools&fontSize=22&fontColor=c9d1d9&animation=none&fontAlignY=50"
+    width="30%"
+    alt="Tech Stack and Tools"
+  />
+</div>
+
+
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
 
