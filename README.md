@@ -114,14 +114,6 @@ class EmamulIslamNadid:
 me = EmamulIslamNadid()
 me.say_hi()
 
----
-
-## 🌐 PART 4 – Connect / Social Links (Clean & Grouped)
-
-```md
-<!-- ========================================================= -->
-<!--                    PART 4: CONNECT LINKS                  -->
-<!-- ========================================================= -->
 ```
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Connect With Me
 
