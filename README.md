@@ -6,7 +6,7 @@
 
   <!-- MAIN NAME BANNER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=230&section=header&text=Emamul%20Islam%20Nadid&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=230&section=header&text=Emamul%20Islam%20Nadid&text=Computer%20Science%20and%Engineering%20student%20&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=38"
     width="100%"
     alt="Header banner with name Emamul Islam Nadid"
     style="margin:0; padding:0;"
