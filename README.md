@@ -48,11 +48,6 @@
 <!-- ========================================================= -->
 <!--                        PART 3: ABOUT                      -->
 <!-- ========================================================= -->
-
-<!-- ========================================================= -->
-<!--                        PART 3: ABOUT                      -->
-<!-- ========================================================= -->
-
 ## About Me
 
 <table>
@@ -63,6 +58,8 @@
 class EmamulIslamNadid:
     role = "Full Stack Developer"
     education = "BSc in Computer Science & Engineering"
+    university = "Port City International University"
+    expected_graduation = "2026"
     location = "Bangladesh"
     languages = ["Bengali", "English"]
 
@@ -78,6 +75,7 @@ class EmamulIslamNadid:
         "Writing clean, maintainable code",
         "Contributing to open-source projects",
     ]
+
 ```
 </td> <td width="40%" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Developer working on computer" />
