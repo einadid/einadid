@@ -53,38 +53,31 @@
 
 ```python
 class EmamulIslamNadid:
-    def __init__(self):
-        self.name = "Emamul Islam Nadid"
-        self.role = "Full Stack Developer"
-        self.education = "BSc in Computer Science & Engineering"
-        self.location = "Bangladesh"
-        self.languages = ["Bengali", "English"]
+    name = "Emamul Islam Nadid"
+    role = "Full Stack Developer"
+    education = "BSc in Computer Science & Engineering"
+    location = "Bangladesh"
+    languages = ["Bengali", "English"]
 
-        self.interests = [
-            "Web Application Development",
-            "System Design & Architecture",
-            "Problem Solving",
-            "UI/UX & Visual Design",
-        ]
+    interests = [
+        "Web Application Development",
+        "System Design & Architecture",
+        "Problem Solving",
+        "UI/UX & Visual Design",
+    ]
 
-    def current_focus(self):
-        return [
-            "Building scalable full stack applications",
-            "Writing clean, maintainable code",
-            "Learning modern tools & frameworks",
-            "Contributing to open-source projects",
-        ]
-
-    def say_hi(self):
-        return (
-            "Thanks for visiting my GitHub! "
-            "Let's build something amazing together."
-        )
+    focus = [
+        "Building scalable applications",
+        "Writing clean, maintainable code",
+        "Contributing to open-source projects",
+    ]
 
 
-me = EmamulIslamNadid()
-print(me.say_hi())
+print("Thanks for visiting my GitHub!")
+
 ```
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=30363d&height=6&section=footer" width="100%" />
+
 <!-- ========================================================= -->
 <!--                 PART 4: CONNECT WITH ME                   -->
 <!-- ========================================================= -->
