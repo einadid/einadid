@@ -2,8 +2,8 @@ name: Generate GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # প্রতি দিন রাত ১২টায় রান করবে
-  workflow_dispatch:       # চাইলে ম্যানুয়ালি Actions থেকে Run করতে পারবে
+    - cron: "0 0 * * *"
+  workflow_dispatch:      
 
 jobs:
   generate:
