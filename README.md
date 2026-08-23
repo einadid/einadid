@@ -10,6 +10,10 @@
     alt="Emamul Islam Nadid header"
     style="margin:0; padding:0;"
   />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
 </div>
 
@@ -87,9 +91,7 @@
   About Me
 </h2>
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Developer working on computer" style="margin-left: 20px;" />
 
 ```python
 class EmamulIslamNadid:
@@ -112,13 +114,9 @@ class EmamulIslamNadid:
         "Writing clean, maintainable code",
         "Contributing to open-source projects",
     ]
-
 ```
-</td> <td width="40%" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Developer working on computer" />
-
-</td> </tr> </table>
+<br clear="both">
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
@@ -382,10 +380,17 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="26" alt="Graph animation">
-  Contribution Graph
+  GitHub Analytics & Trophies
 </h2>
 
 <div align="center">
+  <!-- GITHUB TROPHIES -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=einadid&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="einadid's GitHub Trophies" />
+  </a>
+  
+  <br/><br/>
+
   <table>
     <tr>
       <td width="50%" align="center">
@@ -463,6 +468,12 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <!--                         PART 9: FOOTER                    -->
 <!-- ========================================================= -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
+</div>
+
+<br/>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20create%20something%20amazing.&fontSize=16&fontColor=8b949e&fontAlignY=65"
