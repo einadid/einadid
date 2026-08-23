@@ -337,7 +337,7 @@ class EmamulIslamNadid:
   <!-- PROJECT 1: Portfolio -->
   <a href="https://github.com/einadid/portfolio" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=portfolio&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=einadid&repo=portfolio&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
       alt="Portfolio Website"
     />
   </a>
@@ -345,7 +345,7 @@ class EmamulIslamNadid:
   <!-- PROJECT 2: Ticketbari Client -->
   <a href="https://github.com/einadid/ticketbari-project-client" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=ticketbari-project-client&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=einadid&repo=ticketbari-project-client&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
       alt="Ticketbari Client"
     />
   </a>
@@ -353,7 +353,7 @@ class EmamulIslamNadid:
   <!-- PROJECT 3: HomeHero Server v2 -->
   <a href="https://github.com/einadid/homehero-server-v2" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=homehero-server-v2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=einadid&repo=homehero-server-v2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
       alt="HomeHero Server v2"
     />
   </a>
@@ -361,7 +361,7 @@ class EmamulIslamNadid:
   <!-- PROJECT 4: QuickMed -->
   <a href="https://github.com/einadid/quickmed" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=quickmed&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=einadid&repo=quickmed&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
       alt="QuickMed"
     />
   </a>
@@ -396,7 +396,7 @@ class EmamulIslamNadid:
       <td width="50%" align="center">
         <!-- STATS CARD -->
         <img
-          src="https://github-readme-stats.vercel.app/api?username=einadid&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"
+          src="https://github-stats-extended.vercel.app/api?username=einadid&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"
           alt="GitHub Stats"
         />
         <br/><br/>
@@ -409,7 +409,7 @@ class EmamulIslamNadid:
       <td width="50%" align="center">
         <!-- TOP LANGUAGES CARD -->
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=einadid&layout=donut-vertical&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=einadid&layout=donut-vertical&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
           alt="Top Languages"
         />
       </td>
