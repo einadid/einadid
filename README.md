@@ -10,6 +10,10 @@
     alt="Emamul Islam Nadid header"
     style="margin:0; padding:0;"
   />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
 </div>
 
@@ -87,9 +91,7 @@
   About Me
 </h2>
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Developer working on computer" style="margin-left: 20px;" />
 
 ```python
 class EmamulIslamNadid:
@@ -112,13 +114,9 @@ class EmamulIslamNadid:
         "Writing clean, maintainable code",
         "Contributing to open-source projects",
     ]
-
 ```
-</td> <td width="40%" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdsODB4Mm80NmtodGg2MnczdnE5dm10aHpsdW92OHFicGt1bmtsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Developer working on computer" />
-
-</td> </tr> </table>
+<br clear="both">
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=40&section=footer"
@@ -339,7 +337,7 @@ class EmamulIslamNadid:
   <!-- PROJECT 1: Portfolio -->
   <a href="https://github.com/einadid/portfolio" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=portfolio&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=einadid&repo=portfolio&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
       alt="Portfolio Website"
     />
   </a>
@@ -347,7 +345,7 @@ class EmamulIslamNadid:
   <!-- PROJECT 2: Ticketbari Client -->
   <a href="https://github.com/einadid/ticketbari-project-client" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=ticketbari-project-client&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=einadid&repo=ticketbari-project-client&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
       alt="Ticketbari Client"
     />
   </a>
@@ -355,7 +353,7 @@ class EmamulIslamNadid:
   <!-- PROJECT 3: HomeHero Server v2 -->
   <a href="https://github.com/einadid/homehero-server-v2" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=homehero-server-v2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=einadid&repo=homehero-server-v2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
       alt="HomeHero Server v2"
     />
   </a>
@@ -363,7 +361,7 @@ class EmamulIslamNadid:
   <!-- PROJECT 4: QuickMed -->
   <a href="https://github.com/einadid/quickmed" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=einadid&repo=quickmed&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=einadid&repo=quickmed&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
       alt="QuickMed"
     />
   </a>
@@ -382,16 +380,23 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="26" alt="Graph animation">
-  Contribution Graph
+  GitHub Analytics & Trophies
 </h2>
 
 <div align="center">
+  <!-- GITHUB TROPHIES -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=einadid&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="einadid's GitHub Trophies" />
+  </a>
+  
+  <br/><br/>
+
   <table>
     <tr>
       <td width="50%" align="center">
         <!-- STATS CARD -->
         <img
-          src="https://github-readme-stats.vercel.app/api?username=einadid&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"
+          src="https://github-stats-extended.vercel.app/api?username=einadid&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"
           alt="GitHub Stats"
         />
         <br/><br/>
@@ -404,7 +409,7 @@ class EmamulIslamNadid:
       <td width="50%" align="center">
         <!-- TOP LANGUAGES CARD -->
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=einadid&layout=donut-vertical&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=einadid&layout=donut-vertical&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
           alt="Top Languages"
         />
       </td>
@@ -463,6 +468,12 @@ class EmamulIslamNadid:
 <!-- ========================================================= -->
 <!--                         PART 9: FOOTER                    -->
 <!-- ========================================================= -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
+</div>
+
+<br/>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20create%20something%20amazing.&fontSize=16&fontColor=8b949e&fontAlignY=65"
